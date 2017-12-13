@@ -1,0 +1,556 @@
+{
+  "all": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "candyball": true,
+      "never-die": true,
+      "junkensteins-revenge": true,
+      "rise-of-the-zomnics": true,
+      "the-reapening": true,
+      "bats": true,
+      "halloween-special": true,
+      "yeti": true,
+      "yeti-hunter": true
+    },
+    "voicelines": {},
+    "poses": {},
+    "icons": {
+      "2017": false,
+      "superstition": true,
+      "halloween-terror-2017": true,
+      "halloween-terror-2016": true,
+      "vampachimari": true,
+      "witchs-hat": true,
+      "bewitching": true,
+      "ghostymari": true,
+      "junkensteins-pachimonster": true,
+      "witchs-brew": true,
+      "wolf": true,
+      "never-die": true,
+      "bells": true,
+      "present": true,
+      "winter-wonderland-2017": true,
+      "gingermari": true,
+      "peppermint": true,
+      "bubbly": true,
+      "stocking": true,
+      "winter-wonderland-2016": true,
+      "snow-globe": true
+    },
+    "weapons": {}
+  },
+  "ana": {
+    "skins": {
+      "ana-ghoul": true,
+      "ana-citrine": true,
+      "ana-garnet": true,
+      "ana-peridot": true,
+      "ana-turquoise": true,
+      "ana-shrike": true,
+      "ana-wasteland": true
+    },
+    "emotes": {
+      "ana-candy": true,
+      "ana-not-impressed": true,
+      "ana-protector": true
+    },
+    "intros": {},
+    "sprays": {
+      "ana-trick-or-treat": true,
+      "ana-action": true,
+      "ana-wrist-launcher": true,
+      "ana-sidearm": true,
+      "ana-eyepatch": true,
+      "ana-cheer": true,
+      "ana-cracked": true,
+      "ana-fareeha": true,
+      "ana-guardian": true,
+      "ana-grenade": true,
+      "ana-hesitation": true,
+      "ana-icon": true,
+      "ana-letter": true,
+      "ana-cute": true,
+      "ana-pillow": true,
+      "ana-shadow": true,
+      "ana-wedjat": true,
+      "ana-photograph": true,
+      "ana-bearer": true,
+      "ana-gaze": true,
+      "ana-old-soldier": true,
+      "ana-overhead": true,
+      "ana-zzz": true,
+      "ana-shooting": true,
+      "ana-ornament": true,
+      "ana-ace-of-hearts": true,
+      "ana-dance": true,
+      "ana-pixel": true
+    },
+    "voicelines": {
+      "ana-are-you-scared": true,
+      "ana-dont-be-scared": true,
+      "ana-better-than-retirement": true,
+      "ana-learn-from-the-pain": true,
+      "ana-follow-me": true,
+      "ana-justice-rains-from-above": true,
+      "ana-children-behave": true,
+      "ana-what-are-you-thinking": true,
+      "ana-it-takes-a-woman-to-know": true,
+      "ana-everyone-dies": true,
+      "ana-someone-to-tuck-you-in": true,
+      "ana-you-know-nothing": true
+    },
+    "poses": {
+      "ana-rip": true,
+      "ana-toast": true,
+      "ana-mission-complete": true,
+      "ana-protector": true,
+      "ana-seated": true,
+      "ana-folded-hands": true
+    },
+    "icons": {
+      "ana-corsair": true,
+      "ana-wedjat": true,
+      "ana-watcher": true,
+      "ana-ana": true,
+      "ana-anaversary": true
+    },
+    "weapons": {}
+  },
+  "bastion": {
+    "skins": {
+      "bastion-tombstone": true,
+      "bastion-dawn": true,
+      "bastion-meadow": true,
+      "bastion-sky": true,
+      "bastion-soot": true,
+      "bastion-gearbot": true,
+      "bastion-overgrown": true
+    },
+    "emotes": {
+      "bastion-robo-boogie": true,
+      "bastion-chortle": true
+    },
+    "intros": {},
+    "sprays": {
+      "bastion-action": true,
+      "bastion-blocks": true,
+      "bastion-in-repair": true,
+      "bastion-cannon": true,
+      "bastion-crisis": true,
+      "bastion-e54": true,
+      "bastion-curious": true,
+      "bastion-fire-at-will": true,
+      "bastion-overgrown": true,
+      "bastion-flower-power": true,
+      "bastion-ganymede": true,
+      "bastion-giant": true,
+      "bastion-icon": true,
+      "bastion-nest": true,
+      "bastion-sprout": true,
+      "bastion-black": true,
+      "bastion-bird": true,
+      "bastion-retro": true,
+      "bastion-recovery": true,
+      "bastion-bastyum": true,
+      "bastion-sunken": true,
+      "bastion-omnic": true
+    },
+    "voicelines": {
+      "bastion-wwwooooo": true,
+      "bastion-bwoo-bwoo-bwoo": true,
+      "bastion-beeple": true,
+      "bastion-boo-boo-doo-de-doo": true,
+      "bastion-bweeeeeeeeeee": true,
+      "bastion-chirr-chirr-chirr": true,
+      "bastion-dahdah-weeeee": true,
+      "bastion-dun-dun-boop-boop": true,
+      "bastion-dweet-dweet-dweet": true,
+      "bastion-hee-hoo-hoo": true,
+      "bastion-shshsh": true,
+      "bastion-zwee": true,
+      "bastion-whoovweeeeee": true,
+      "bastion-dwee-doo-hoo": true,
+      "bastion-woop-doo-woo-dun-woop": true,
+      "bastion-bewwoo-bewwoo": true
+    },
+    "poses": {
+      "bastion-birdwatching": true,
+      "bastion-pop-up": true,
+      "bastion-tank": true,
+      "bastion-firework": true
+    },
+    "icons": {
+      "bastion-bastion": true,
+      "bastion-tank-crossing": true,
+      "bastion-goldbot": true,
+      "bastion-ganymede": true
+    },
+    "weapons": {}
+  },
+  "dva": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "dva-trick-or-treat": true
+    },
+    "voicelines": {
+      "dva-happy-halloween": true
+    },
+    "poses": {},
+    "icons": {},
+    "weapons": {}
+  },
+  "doomfist": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {
+      "doomfist-i-have-something-for-you": true
+    },
+    "poses": {},
+    "icons": {},
+    "weapons": {}
+  },
+  "genji": {
+    "skins": {},
+    "emotes": {},
+    "intros": {
+      "genji-pumpkin-carving": true
+    },
+    "sprays": {
+      "genji-trick-or-treat": true
+    },
+    "voicelines": {
+      "genji-happy-halloween": true,
+      "genji-merry-christmas": true,
+      "genji-count-your-blessings": true
+    },
+    "poses": {},
+    "icons": {},
+    "weapons": {}
+  },
+  "hanzo": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {},
+    "weapons": {}
+  },
+  "junkrat": {
+    "skins": {
+      "junkrat-dr-junkenstein": true,
+      "junkrat-beachrat": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {
+      "junkrat-im-alive": true
+    },
+    "poses": {
+      "junkrat-pumpkin": true
+    },
+    "icons": {},
+    "weapons": {}
+  },
+  "lucio": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "lucio-trick-or-treat": true
+    },
+    "voicelines": {
+      "lucio-killed-it": true
+    },
+    "poses": {
+      "lucio-pumpkin-control": true
+    },
+    "icons": {},
+    "weapons": {}
+  },
+  "mccree": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "mccree-trick-or-treat": true
+    },
+    "voicelines": {},
+    "poses": {},
+    "icons": {},
+    "weapons": {}
+  },
+  "mei": {
+    "skins": {
+      "mei-jiangshi": true
+    },
+    "emotes": {
+      "mei-hopping": true,
+      "mei-snowman": true
+    },
+    "intros": {
+      "mei-ice-scream": true
+    },
+    "sprays": {
+      "mei-trick-or-treat": true
+    },
+    "voicelines": {},
+    "poses": {
+      "mei-rip": true
+    },
+    "icons": {},
+    "weapons": {}
+  },
+  "mercy": {
+    "skins": {
+      "mercy-witch": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "mercy-trick-or-treat": true
+    },
+    "voicelines": {
+      "mercy-superstition": true
+    },
+    "poses": {},
+    "icons": {
+      "mercy-the-witch": true
+    },
+    "weapons": {}
+  },
+  "moira": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {},
+    "weapons": {}
+  },
+  "orisa": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {},
+    "weapons": {}
+  },
+  "pharah": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "pharah-trick-or-treat": true
+    },
+    "voicelines": {},
+    "poses": {},
+    "icons": {},
+    "weapons": {}
+  },
+  "reaper": {
+    "skins": {
+      "reaper-pumpkin": true
+    },
+    "emotes": {},
+    "intros": {
+      "reaper-eternal-rest": true
+    },
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {
+      "reaper-dracula": true
+    },
+    "weapons": {}
+  },
+  "reinhardt": {
+    "skins": {
+      "reinhardt-coldhardt": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {},
+    "weapons": {}
+  },
+  "roadhog": {
+    "skins": {
+      "roadhog-junkensteins-monster": true
+    },
+    "emotes": {},
+    "intros": {
+      "roadhog-footsteps": true
+    },
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {
+      "roadhog-ice-fisherman": true
+    },
+    "weapons": {}
+  },
+  "soldier-76": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {
+      "soldier-76-trick-or-treat": true
+    },
+    "poses": {},
+    "icons": {
+      "soldier-76-alpine": true
+    },
+    "weapons": {}
+  },
+  "sombra": {
+    "skins": {},
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {
+      "sombra-pumpkinette": true
+    },
+    "icons": {},
+    "weapons": {}
+  },
+  "symmetra": {
+    "skins": {},
+    "emotes": {},
+    "intros": {
+      "symmetra-snowflakes": true
+    },
+    "sprays": {
+      "symmetra-trick-or-treat": true
+    },
+    "voicelines": {
+      "symmetra-a-frightening-thought": true,
+      "symmetra-the-treat-is-a-lie": true
+    },
+    "poses": {},
+    "icons": {
+      "symmetra-the-summoner": true
+    },
+    "weapons": {}
+  },
+  "torbjorn": {
+    "skins": {
+      "torbjorn-viking": true,
+      "torbjorn-santaclad": true
+    },
+    "emotes": {
+      "torbjorn-batter-up": true
+    },
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {
+      "torbjorn-santaclad": true
+    },
+    "weapons": {}
+  },
+  "tracer": {
+    "skins": {
+      "tracer-jingle": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {
+      "tracer-pumpkin": true
+    },
+    "icons": {
+      "tracer-jingle": true
+    },
+    "weapons": {}
+  },
+  "widowmaker": {
+    "skins": {},
+    "emotes": {},
+    "intros": {
+      "widowmaker-under-the-mistletoe": true
+    },
+    "sprays": {
+      "widowmaker-trick-or-treat": true
+    },
+    "voicelines": {
+      "widowmaker-morning-spider": true
+    },
+    "poses": {
+      "widowmaker-toast": true
+    },
+    "icons": {},
+    "weapons": {}
+  },
+  "winston": {
+    "skins": {
+      "winston-yeti": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "winston-trick-or-treat": true
+    },
+    "voicelines": {
+      "winston-ooh-scary": true
+    },
+    "poses": {},
+    "icons": {},
+    "weapons": {}
+  },
+  "zarya": {
+    "skins": {
+      "zarya-frosted": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "zarya-matryoshka": false
+    },
+    "voicelines": {
+      "zarya-never-forget-the-fallen": true
+    },
+    "poses": {
+      "zarya-toast": true
+    },
+    "icons": {
+      "zarya-totally-80s": true
+    },
+    "weapons": {}
+  },
+  "zenyatta": {
+    "skins": {
+      "zenyatta-skullyatta": true,
+      "zenyatta-cultist": true,
+      "zenyatta-nutcracker": true
+    },
+    "emotes": {
+      "zenyatta-snowflake": true
+    },
+    "intros": {},
+    "sprays": {},
+    "voicelines": {},
+    "poses": {},
+    "icons": {
+      "zenyatta-cultist": true
+    },
+    "weapons": {}
+  }
+}
