@@ -185,22 +185,86 @@
       "bastion-bastion": true,
       "bastion-tank-crossing": true,
       "bastion-goldbot": true,
-      "bastion-ganymede": true
+      "bastion-ganymede": true,
+      "bastion-avalanche": true
     },
     "weapons": {}
   },
   "dva": {
-    "skins": {},
-    "emotes": {},
-    "intros": {},
+    "skins": {
+      "dva-blueberry": true,
+      "dva-lemonlime": true,
+      "dva-tangerine": true,
+      "dva-watermelon": true,
+      "dva-white-rabbit": true,
+      "dva-scavenger": true
+    },
+    "emotes": {
+      "dva-dance": true
+    },
+    "intros": {
+      "dva-eject": true,
+      "dva-lying-around": true
+    },
     "sprays": {
-      "dva-trick-or-treat": true
+      "dva-trick-or-treat": true,
+      "dva-cookie": true,
+      "dva-bubble": true,
+      "dva-love-dva": true,
+      "dva-bubble-gum": true,
+      "dva-headset": true,
+      "dva-heart": true,
+      "dva-walk-of-fame": true,
+      "dva-unload": true,
+      "dva-diva": true,
+      "dva-gg": true,
+      "dva-hana": true,
+      "dva-icon": true,
+      "dva-bny": true,
+      "dva-pixel-bunny": true,
+      "dva-meka": true,
+      "dva-nano-cola": true,
+      "dva-cute": true,
+      "dva-pixel": true,
+      "dva-power-up": true,
+      "dva-photo": true,
+      "dva-bang": true,
+      "dva-light-gun": true,
+      "dva-badge": true,
+      "dva-bunny-hop": true,
+      "dva-watching": true,
+      "dva-salt": true,
+      "dva-star": true,
+      "dva-dragon-dance": true,
+      "dva-ten-of-hearts": true
     },
     "voicelines": {
-      "dva-happy-halloween": true
+      "dva-happy-halloween": true,
+      "dva-winkyface": true,
+      "dva-afk": true,
+      "dva-a-new-challenger": true,
+      "dva-dva-1-bad-guys-0": true,
+      "dva-no-hacks-required": true,
+      "dva-gg": true,
+      "dva-lol": true,
+      "dva-i-play-to-win": true,
+      "dva-aw-yeah": true,
+      "dva-is-this-easy-mode": true,
+      "dva-not-taking-me-seriously": true
     },
-    "poses": {},
-    "icons": {},
+    "poses": {
+      "dva-festive": true,
+      "dva-rip": true,
+      "dva-sitting": true,
+      "dva-peace": true,
+      "dva-i-heart-you": true
+    },
+    "icons": {
+      "dva-cycling": true,
+      "dva-dva": true,
+      "dva-charm": true,
+      "dva-bunny": true
+    },
     "weapons": {}
   },
   "doomfist": {
@@ -246,7 +310,10 @@
   "junkrat": {
     "skins": {
       "junkrat-dr-junkenstein": true,
-      "junkrat-beachrat": true
+      "junkrat-beachrat": true,
+      "junkrat-cricket": true,
+      "junkrat-jester": true,
+      "junkrat-fool": true
     },
     "emotes": {},
     "intros": {},
@@ -258,14 +325,18 @@
       "junkrat-pumpkin": true
     },
     "icons": {},
-    "weapons": {}
+    "weapons": {
+      "junkrat-golden": true
+    }
   },
   "lucio": {
     "skins": {},
     "emotes": {},
     "intros": {},
     "sprays": {
-      "lucio-trick-or-treat": true
+      "lucio-trick-or-treat": true,
+      "lucio-ornament": true,
+      "lucio-hockey": false
     },
     "voicelines": {
       "lucio-killed-it": true
@@ -342,7 +413,9 @@
     "emotes": {},
     "intros": {},
     "sprays": {},
-    "voicelines": {},
+    "voicelines": {
+      "orisa-annual-performance-analysis": true
+    },
     "poses": {},
     "icons": {},
     "weapons": {}
@@ -361,7 +434,8 @@
   },
   "reaper": {
     "skins": {
-      "reaper-pumpkin": true
+      "reaper-pumpkin": true,
+      "reaper-shiver": true
     },
     "emotes": {},
     "intros": {
@@ -383,7 +457,10 @@
     "intros": {},
     "sprays": {},
     "voicelines": {},
-    "poses": {},
+    "poses": {
+      "reinhardt-toast": true,
+      "reinhardt-legendary": true
+    },
     "icons": {},
     "weapons": {}
   },
@@ -545,7 +622,9 @@
       "zenyatta-snowflake": true
     },
     "intros": {},
-    "sprays": {},
+    "sprays": {
+      "zenyatta-snowball-fight": true
+    },
     "voicelines": {},
     "poses": {},
     "icons": {
