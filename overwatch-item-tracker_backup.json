@@ -37,7 +37,10 @@
       "bubbly": true,
       "stocking": true,
       "winter-wonderland-2016": true,
-      "snow-globe": true
+      "snow-globe": true,
+      "dreidel": true,
+      "gingerbread": true,
+      "mochi": true
     },
     "weapons": {}
   },
@@ -114,7 +117,8 @@
       "ana-wedjat": true,
       "ana-watcher": true,
       "ana-ana": true,
-      "ana-anaversary": true
+      "ana-anaversary": true,
+      "ana-snow-owl": true
     },
     "weapons": {}
   },
@@ -155,7 +159,8 @@
       "bastion-recovery": true,
       "bastion-bastyum": true,
       "bastion-sunken": true,
-      "bastion-omnic": true
+      "bastion-omnic": true,
+      "bastion-flight": true
     },
     "voicelines": {
       "bastion-wwwooooo": true,
@@ -268,15 +273,46 @@
     "weapons": {}
   },
   "doomfist": {
-    "skins": {},
-    "emotes": {},
-    "intros": {},
-    "sprays": {},
-    "voicelines": {
-      "doomfist-i-have-something-for-you": true
+    "skins": {
+      "doomfist-irin": true,
+      "doomfist-avatar": true,
+      "doomfist-daisy": true,
+      "doomfist-lake": true,
+      "doomfist-plains": true,
+      "doomfist-sunset": true
     },
-    "poses": {},
-    "icons": {},
+    "emotes": {},
+    "intros": {
+      "doomfist-meteor": true
+    },
+    "sprays": {
+      "doomfist-fist": true,
+      "doomfist-akande": true,
+      "doomfist-move-list": true,
+      "doomfist-crater": true,
+      "doomfist-epicenter": true,
+      "doomfist-smoke": true,
+      "doomfist-icon": true,
+      "doomfist-paint": true,
+      "doomfist-thumbs-up": true,
+      "doomfist-punching-bag": true,
+      "doomfist-punchman": true
+    },
+    "voicelines": {
+      "doomfist-i-have-something-for-you": true,
+      "doomfist-you-must-be-joking": true,
+      "doomfist-youre-not-bad": true
+    },
+    "poses": {
+      "doomfist-intense": true,
+      "doomfist-seismic-slam": true,
+      "doomfist-superior": true
+    },
+    "icons": {
+      "doomfist-initials": true,
+      "doomfist-doomfist": true,
+      "doomfist-fist": true
+    },
     "weapons": {}
   },
   "genji": {
@@ -301,8 +337,12 @@
     "skins": {},
     "emotes": {},
     "intros": {},
-    "sprays": {},
-    "voicelines": {},
+    "sprays": {
+      "hanzo-ornament": false
+    },
+    "voicelines": {
+      "hanzo-cold-as-ice": true
+    },
     "poses": {},
     "icons": {},
     "weapons": {}
@@ -319,12 +359,15 @@
     "intros": {},
     "sprays": {},
     "voicelines": {
-      "junkrat-im-alive": true
+      "junkrat-im-alive": true,
+      "junkrat-go-on-give-it-a-shake": true
     },
     "poses": {
       "junkrat-pumpkin": true
     },
-    "icons": {},
+    "icons": {
+      "junkrat-beachrat": true
+    },
     "weapons": {
       "junkrat-golden": true
     }
@@ -348,7 +391,9 @@
     "weapons": {}
   },
   "mccree": {
-    "skins": {},
+    "skins": {
+      "mccree-scrooge": true
+    },
     "emotes": {},
     "intros": {},
     "sprays": {
@@ -371,7 +416,8 @@
       "mei-ice-scream": true
     },
     "sprays": {
-      "mei-trick-or-treat": true
+      "mei-trick-or-treat": true,
+      "mei-ornament": true
     },
     "voicelines": {},
     "poses": {
@@ -412,7 +458,9 @@
     "skins": {},
     "emotes": {},
     "intros": {},
-    "sprays": {},
+    "sprays": {
+      "orisa-unmoving": true
+    },
     "voicelines": {
       "orisa-annual-performance-analysis": true
     },
@@ -427,7 +475,9 @@
     "sprays": {
       "pharah-trick-or-treat": true
     },
-    "voicelines": {},
+    "voicelines": {
+      "pharah-the-forecast": true
+    },
     "poses": {},
     "icons": {},
     "weapons": {}
@@ -486,7 +536,8 @@
     "intros": {},
     "sprays": {},
     "voicelines": {
-      "soldier-76-trick-or-treat": true
+      "soldier-76-trick-or-treat": true,
+      "soldier-76-im-an-army-of-one": true
     },
     "poses": {},
     "icons": {
@@ -503,7 +554,9 @@
     "poses": {
       "sombra-pumpkinette": true
     },
-    "icons": {},
+    "icons": {
+      "sombra-rime": true
+    },
     "weapons": {}
   },
   "symmetra": {
@@ -586,7 +639,8 @@
       "winston-trick-or-treat": true
     },
     "voicelines": {
-      "winston-ooh-scary": true
+      "winston-ooh-scary": true,
+      "winston-i-got-you-something": true
     },
     "poses": {},
     "icons": {},
