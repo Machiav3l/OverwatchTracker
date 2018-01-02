@@ -12,12 +12,14 @@
       "bats": true,
       "halloween-special": true,
       "yeti": true,
-      "yeti-hunter": true
+      "yeti-hunter": true,
+      "winter-wonderland": true
     },
     "voicelines": {},
     "poses": {},
     "icons": {
       "2017": false,
+      "2018": true,
       "superstition": true,
       "halloween-terror-2017": true,
       "halloween-terror-2016": true,
@@ -40,7 +42,18 @@
       "snow-globe": true,
       "dreidel": true,
       "gingerbread": true,
-      "mochi": true
+      "mochi": true,
+      "cheers": true,
+      "hot-cocoa": true,
+      "candy-cane": true,
+      "holly": true,
+      "pachireindeer": true,
+      "pachimerry": true,
+      "ornament": true,
+      "snowman": true,
+      "tannenbaum": true,
+      "yetimari": true,
+      "wreath": true
     },
     "weapons": {}
   },
@@ -52,7 +65,8 @@
       "ana-peridot": true,
       "ana-turquoise": true,
       "ana-shrike": true,
-      "ana-wasteland": true
+      "ana-wasteland": true,
+      "ana-snow-owl": true
     },
     "emotes": {
       "ana-candy": true,
@@ -88,7 +102,8 @@
       "ana-ornament": true,
       "ana-ace-of-hearts": true,
       "ana-dance": true,
-      "ana-pixel": true
+      "ana-pixel": true,
+      "ana-rifle": true
     },
     "voicelines": {
       "ana-are-you-scared": true,
@@ -209,7 +224,8 @@
     },
     "intros": {
       "dva-eject": true,
-      "dva-lying-around": true
+      "dva-lying-around": true,
+      "dva-meka-activated": true
     },
     "sprays": {
       "dva-trick-or-treat": true,
@@ -241,7 +257,8 @@
       "dva-salt": true,
       "dva-star": true,
       "dva-dragon-dance": true,
-      "dva-ten-of-hearts": true
+      "dva-ten-of-hearts": true,
+      "dva-ornament": true
     },
     "voicelines": {
       "dva-happy-halloween": true,
@@ -255,7 +272,8 @@
       "dva-i-play-to-win": true,
       "dva-aw-yeah": true,
       "dva-is-this-easy-mode": true,
-      "dva-not-taking-me-seriously": true
+      "dva-not-taking-me-seriously": true,
+      "dva-aw-you-shouldnt-have": true
     },
     "poses": {
       "dva-festive": true,
@@ -301,7 +319,8 @@
     "voicelines": {
       "doomfist-i-have-something-for-you": true,
       "doomfist-you-must-be-joking": true,
-      "doomfist-youre-not-bad": true
+      "doomfist-youre-not-bad": true,
+      "doomfist-one-punch-is-all-i-need": true
     },
     "poses": {
       "doomfist-intense": true,
@@ -316,35 +335,155 @@
     "weapons": {}
   },
   "genji": {
-    "skins": {},
-    "emotes": {},
+    "skins": {
+      "genji-azurite": true,
+      "genji-cinnabar": true,
+      "genji-malachite": true,
+      "genji-ochre": true,
+      "genji-young-genji": true,
+      "genji-sparrow": true,
+      "genji-oni": true,
+      "genji-nomad": true,
+      "genji-carbon-fiber": false,
+      "genji-chrome": true
+    },
+    "emotes": {
+      "genji-meditate": true,
+      "genji-dance": true,
+      "genji-amusing": true
+    },
     "intros": {
       "genji-pumpkin-carving": true
     },
     "sprays": {
-      "genji-trick-or-treat": true
+      "genji-trick-or-treat": true,
+      "genji-ornament": true,
+      "genji-dragonblade": true,
+      "genji-assassin": true,
+      "genji-fully-loaded": true,
+      "genji-green-ninja": true,
+      "genji-kaze-no-gotoku": true,
+      "genji-nin": true,
+      "genji-onmyodo": true,
+      "genji-ryugekiken": true,
+      "genji-shuriken": true,
+      "genji-soul": true,
+      "genji-stoic": true,
+      "genji-warrior": true,
+      "genji-swords": true,
+      "genji-stance": true,
+      "genji-signature": true,
+      "genji-shimada": true,
+      "genji-prepared": true,
+      "genji-oni": true,
+      "genji-lunge": true,
+      "genji-icon": true,
+      "genji-god-of-war": true,
+      "genji-draw": true,
+      "genji-dragon": true,
+      "genji-green-dragon": true,
+      "genji-dragon-dance": true,
+      "genji-kadomatsu": true,
+      "genji-target-practice": true
     },
     "voicelines": {
       "genji-happy-halloween": true,
       "genji-merry-christmas": true,
-      "genji-count-your-blessings": true
+      "genji-count-your-blessings": true,
+      "genji-come-on": true,
+      "genji-my-soul-seeks-balance": true,
+      "genji-lets-fight": true,
+      "genji-simple": true,
+      "genji-damn": true,
+      "genji-not-good-enough": true,
+      "genji-i-am-prepared": true,
+      "genji-measure-twice-cut-once": true,
+      "genji-you-are-only-human": true,
+      "genji-yeah": true
     },
-    "poses": {},
-    "icons": {},
+    "poses": {
+      "genji-rip": false,
+      "genji-sword-stance": true,
+      "genji-shuriken": true,
+      "genji-kneeling": true,
+      "genji-toast": true
+    },
+    "icons": {
+      "genji-oni": true,
+      "genji-nin": true,
+      "genji-god-of-war": true,
+      "genji-genji": true
+    },
     "weapons": {}
   },
   "hanzo": {
-    "skins": {},
-    "emotes": {},
-    "intros": {},
+    "skins": {
+      "hanzo-casual": true,
+      "hanzo-azuki": true,
+      "hanzo-kinoko": true,
+      "hanzo-midori": true,
+      "hanzo-sora": true,
+      "hanzo-young-master": true,
+      "hanzo-young-hanzo": true,
+      "hanzo-cloud": false
+    },
+    "emotes": {
+      "hanzo-meditate": true
+    },
+    "intros": {
+      "hanzo-backflip": true,
+      "hanzo-my-aim-is-true": true
+    },
     "sprays": {
-      "hanzo-ornament": false
+      "hanzo-ornament": true,
+      "hanzo-archer": true,
+      "hanzo-challenge": true,
+      "hanzo-drawn": true,
+      "hanzo-duty": true,
+      "hanzo-dragonstrike": true,
+      "hanzo-dragon": true,
+      "hanzo-dragons": true,
+      "hanzo-haori": true,
+      "hanzo-kneeling": true,
+      "hanzo-yellow": true,
+      "hanzo-icon": true,
+      "hanzo-successor": true,
+      "hanzo-cloud": true,
+      "hanzo-kumo": true,
+      "hanzo-nin": true,
+      "hanzo-moon": true,
+      "hanzo-sake": true,
+      "hanzo-scarf": true,
+      "hanzo-spray": true,
+      "hanzo-seal": true,
+      "hanzo-stoic": true,
+      "hanzo-tea": true,
+      "hanzo-wanderer": true,
+      "hanzo-kadomatsu": true,
+      "hanzo-pixel": true
     },
     "voicelines": {
-      "hanzo-cold-as-ice": true
+      "hanzo-cold-as-ice": true,
+      "hanzo-never-in-doubt": true,
+      "hanzo-never-second-best": true,
+      "hanzo-i-do-what-i-must": true,
+      "hanzo-from-one-thing": true,
+      "hanzo-hm": true,
+      "hanzo-spirit-dragon": true,
+      "hanzo-sake": true,
+      "hanzo-flow-like-water": true,
+      "hanzo-remember-this-moment": true,
+      "hanzo-when-the-moon-is-full": true
     },
-    "poses": {},
-    "icons": {},
+    "poses": {
+      "hanzo-confident": true,
+      "hanzo-kneeling": true,
+      "hanzo-over-the-shoulder": true,
+      "hanzo-skewered": true
+    },
+    "icons": {
+      "hanzo-casual": true
+    },
     "weapons": {}
   },
   "junkrat": {
@@ -357,7 +496,9 @@
     },
     "emotes": {},
     "intros": {},
-    "sprays": {},
+    "sprays": {
+      "junkrat-ornament": true
+    },
     "voicelines": {
       "junkrat-im-alive": true,
       "junkrat-go-on-give-it-a-shake": true
@@ -373,7 +514,9 @@
     }
   },
   "lucio": {
-    "skins": {},
+    "skins": {
+      "lucio-andes": true
+    },
     "emotes": {},
     "intros": {},
     "sprays": {
@@ -394,7 +537,9 @@
     "skins": {
       "mccree-scrooge": true
     },
-    "emotes": {},
+    "emotes": {
+      "mccree-hat-trick": true
+    },
     "intros": {},
     "sprays": {
       "mccree-trick-or-treat": true
@@ -433,7 +578,8 @@
     "emotes": {},
     "intros": {},
     "sprays": {
-      "mercy-trick-or-treat": true
+      "mercy-trick-or-treat": true,
+      "mercy-snow-angel": true
     },
     "voicelines": {
       "mercy-superstition": true
@@ -445,10 +591,17 @@
     "weapons": {}
   },
   "moira": {
-    "skins": {},
+    "skins": {
+      "moira-oasis": true,
+      "moira-glam": true
+    },
     "emotes": {},
     "intros": {},
-    "sprays": {},
+    "sprays": {
+      "moira-selfexperimentation": true,
+      "moira-icon": true,
+      "moira-test-murloc": true
+    },
     "voicelines": {},
     "poses": {},
     "icons": {},
@@ -459,7 +612,8 @@
     "emotes": {},
     "intros": {},
     "sprays": {
-      "orisa-unmoving": true
+      "orisa-unmoving": true,
+      "orisa-guardian": true
     },
     "voicelines": {
       "orisa-annual-performance-analysis": true
@@ -469,7 +623,9 @@
     "weapons": {}
   },
   "pharah": {
-    "skins": {},
+    "skins": {
+      "pharah-frostbite": true
+    },
     "emotes": {},
     "intros": {},
     "sprays": {
@@ -478,7 +634,9 @@
     "voicelines": {
       "pharah-the-forecast": true
     },
-    "poses": {},
+    "poses": {
+      "pharah-toast": true
+    },
     "icons": {},
     "weapons": {}
   },
@@ -491,7 +649,9 @@
     "intros": {
       "reaper-eternal-rest": true
     },
-    "sprays": {},
+    "sprays": {
+      "reaper-ornament": true
+    },
     "voicelines": {},
     "poses": {},
     "icons": {
@@ -531,10 +691,14 @@
     "weapons": {}
   },
   "soldier-76": {
-    "skins": {},
+    "skins": {
+      "soldier-76-alpine-76": true
+    },
     "emotes": {},
     "intros": {},
-    "sprays": {},
+    "sprays": {
+      "soldier-76-ornament": true
+    },
     "voicelines": {
       "soldier-76-trick-or-treat": true,
       "soldier-76-im-an-army-of-one": true
@@ -618,7 +782,9 @@
       "widowmaker-under-the-mistletoe": true
     },
     "sprays": {
-      "widowmaker-trick-or-treat": true
+      "widowmaker-trick-or-treat": true,
+      "widowmaker-icon": true,
+      "widowmaker-skiing": true
     },
     "voicelines": {
       "widowmaker-morning-spider": true
@@ -643,7 +809,9 @@
       "winston-i-got-you-something": true
     },
     "poses": {},
-    "icons": {},
+    "icons": {
+      "winston-yeti": true
+    },
     "weapons": {}
   },
   "zarya": {
@@ -670,7 +838,8 @@
     "skins": {
       "zenyatta-skullyatta": true,
       "zenyatta-cultist": true,
-      "zenyatta-nutcracker": true
+      "zenyatta-nutcracker": true,
+      "zenyatta-ifrit": true
     },
     "emotes": {
       "zenyatta-snowflake": true
@@ -679,10 +848,13 @@
     "sprays": {
       "zenyatta-snowball-fight": true
     },
-    "voicelines": {},
+    "voicelines": {
+      "zenyatta-no-snowflake": true
+    },
     "poses": {},
     "icons": {
-      "zenyatta-cultist": true
+      "zenyatta-cultist": true,
+      "zenyatta-nutcracker": true
     },
     "weapons": {}
   }
