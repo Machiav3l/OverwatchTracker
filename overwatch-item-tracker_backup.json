@@ -13,7 +13,10 @@
       "halloween-special": true,
       "yeti": true,
       "yeti-hunter": true,
-      "winter-wonderland": true
+      "winter-wonderland": true,
+      "barbarian": false,
+      "pachimari": true,
+      "scooter": true
     },
     "voicelines": {},
     "poses": {},
@@ -53,7 +56,64 @@
       "snowman": true,
       "tannenbaum": true,
       "yetimari": true,
-      "wreath": true
+      "wreath": true,
+      "from-beyond-the-moon": true,
+      "route-66": true,
+      "france": true,
+      "summer-games-2017": true,
+      "summer-games-2016": true,
+      "lord-of-terror": true,
+      "loot-box": true,
+      "lord-of-candy": true,
+      "garrosh": true,
+      "varian": true,
+      "jaina": true,
+      "lich-king": true,
+      "queen-of-blades": true,
+      "dark-lady": true,
+      "for-the-horde": true,
+      "for-the-alliance": true,
+      "crusader": true,
+      "witch-doctor": true,
+      "barbarian": true,
+      "demon-hunter": true,
+      "wizard": true,
+      "zerg": true,
+      "hierarch": true,
+      "rikimaru": true,
+      "sakura": true,
+      "happy-squid": true,
+      "colossus": true,
+      "capsule": true,
+      "ramen": true,
+      "scooter": true,
+      "vivi": true,
+      "siege-mode": true,
+      "anubis": true,
+      "pharaoh": true,
+      "los-muertos": true,
+      "mariachi": true,
+      "monk": true,
+      "credit": true,
+      "training-bot": true,
+      "hearthstone": true,
+      "nexus": true,
+      "terran": true,
+      "protoss": true,
+      "dominion": true,
+      "jim": true,
+      "sixgun-killer": true,
+      "bao": true,
+      "mama-pigs": true,
+      "rhino": true,
+      "elephant": true,
+      "demolition": true,
+      "kofi-aromo": true,
+      "totem": true,
+      "svyatogor": true,
+      "mech": true,
+      "cheers1": true,
+      "brazil": true
     },
     "weapons": {}
   },
@@ -103,7 +163,8 @@
       "ana-ace-of-hearts": true,
       "ana-dance": true,
       "ana-pixel": true,
-      "ana-rifle": true
+      "ana-rifle": true,
+      "ana-ana": true
     },
     "voicelines": {
       "ana-are-you-scared": true,
@@ -175,7 +236,8 @@
       "bastion-bastyum": true,
       "bastion-sunken": true,
       "bastion-omnic": true,
-      "bastion-flight": true
+      "bastion-flight": true,
+      "bastion-wood-and-stone": true
     },
     "voicelines": {
       "bastion-wwwooooo": true,
@@ -320,7 +382,8 @@
       "doomfist-i-have-something-for-you": true,
       "doomfist-you-must-be-joking": true,
       "doomfist-youre-not-bad": true,
-      "doomfist-one-punch-is-all-i-need": true
+      "doomfist-one-punch-is-all-i-need": true,
+      "doomfist-combo-breaker": true
     },
     "poses": {
       "doomfist-intense": true,
@@ -425,7 +488,8 @@
       "hanzo-sora": true,
       "hanzo-young-master": true,
       "hanzo-young-hanzo": true,
-      "hanzo-cloud": false
+      "hanzo-cloud": true,
+      "hanzo-cyberninja": false
     },
     "emotes": {
       "hanzo-meditate": true
@@ -482,7 +546,12 @@
       "hanzo-skewered": true
     },
     "icons": {
-      "hanzo-casual": true
+      "hanzo-casual": true,
+      "hanzo-hanzo": true,
+      "hanzo-shimada": true,
+      "hanzo-storm": true,
+      "hanzo-archery": true,
+      "hanzo-kinenbi": true
     },
     "weapons": {}
   },
@@ -492,22 +561,85 @@
       "junkrat-beachrat": true,
       "junkrat-cricket": true,
       "junkrat-jester": true,
-      "junkrat-fool": true
+      "junkrat-fool": true,
+      "junkrat-bleached": true,
+      "junkrat-drowned": true,
+      "junkrat-irradiated": true,
+      "junkrat-jailbird": true,
+      "junkrat-rusted": true,
+      "junkrat-hayseed": true
     },
-    "emotes": {},
-    "intros": {},
+    "emotes": {
+      "junkrat-running-rat": true,
+      "junkrat-cant-deal": true,
+      "junkrat-puppet": true,
+      "junkrat-vaudeville": true
+    },
+    "intros": {
+      "junkrat-shot-put": true,
+      "junkrat-unfortunate": true
+    },
     "sprays": {
-      "junkrat-ornament": true
+      "junkrat-ornament": true,
+      "junkrat-ahhhh": true,
+      "junkrat-bang-bang": true,
+      "junkrat-crazy": true,
+      "junkrat-fireball": true,
+      "junkrat-cute": true,
+      "junkrat-firework": true,
+      "junkrat-for-you": true,
+      "junkrat-fuse": true,
+      "junkrat-frag": true,
+      "junkrat-grin": true,
+      "junkrat-icon": true,
+      "junkrat-junk": true,
+      "junkrat-kaboom": true,
+      "junkrat-mad": true,
+      "junkrat-mayhem": true,
+      "junkrat-mine": true,
+      "junkrat-minefield": true,
+      "junkrat-rolling": true,
+      "junkrat-pixel": true,
+      "junkrat-smile": true,
+      "junkrat-smoke": true,
+      "junkrat-spin": true,
+      "junkrat-trapper": true,
+      "junkrat-vroom": true,
+      "junkrat-wanted": true,
+      "junkrat-winter": true
     },
     "voicelines": {
       "junkrat-im-alive": true,
-      "junkrat-go-on-give-it-a-shake": true
+      "junkrat-go-on-give-it-a-shake": true,
+      "junkrat-blow-it-up-again": true,
+      "junkrat-anyone-want-some-bbq": true,
+      "junkrat-brrring": true,
+      "junkrat-coming-up-explodey": true,
+      "junkrat-happy-birthday": true,
+      "junkrat-have-a-nice-day": true,
+      "junkrat-its-the-little-things": true,
+      "junkrat-kaboom": true,
+      "junkrat-ooh-shiny": true,
+      "junkrat-i-give-it-a-10": false,
+      "junkrat-smile": true,
+      "junkrat-i-give-it-a-3": false,
+      "junkrat-happy-halloween": false,
+      "junkrat-merry-christmas": true,
+      "junkrat-too-right": true
     },
     "poses": {
-      "junkrat-pumpkin": true
+      "junkrat-pumpkin": true,
+      "junkrat-bad-for-your-health": true,
+      "junkrat-medal": true,
+      "junkrat-nyah-nyah": true,
+      "junkrat-kneeling": true,
+      "junkrat-itll-freeze-that-way": true
     },
     "icons": {
-      "junkrat-beachrat": true
+      "junkrat-beachrat": true,
+      "junkrat-ahhhh": true,
+      "junkrat-have-a-nice-day": true,
+      "junkrat-junkrat": true
     },
     "weapons": {
       "junkrat-golden": true
@@ -522,7 +654,10 @@
     "sprays": {
       "lucio-trick-or-treat": true,
       "lucio-ornament": true,
-      "lucio-hockey": false
+      "lucio-hockey": false,
+      "lucio-under-control": true,
+      "lucio-grin": true,
+      "lucio-break-it-down": true
     },
     "voicelines": {
       "lucio-killed-it": true
@@ -562,7 +697,8 @@
     },
     "sprays": {
       "mei-trick-or-treat": true,
-      "mei-ornament": true
+      "mei-ornament": true,
+      "mei-sketch": true
     },
     "voicelines": {},
     "poses": {
@@ -600,11 +736,19 @@
     "sprays": {
       "moira-selfexperimentation": true,
       "moira-icon": true,
-      "moira-test-murloc": true
+      "moira-test-murloc": true,
+      "moira-facepalm": true,
+      "moira-hypothesis": true
     },
-    "voicelines": {},
+    "voicelines": {
+      "moira-youre-a-chancer": true
+    },
     "poses": {},
-    "icons": {},
+    "icons": {
+      "moira-erlenmeyer": true,
+      "moira-knot": true,
+      "moira-moira": true
+    },
     "weapons": {}
   },
   "orisa": {
@@ -650,7 +794,8 @@
       "reaper-eternal-rest": true
     },
     "sprays": {
-      "reaper-ornament": true
+      "reaper-ornament": true,
+      "reaper-icon": true
     },
     "voicelines": {},
     "poses": {},
@@ -705,7 +850,8 @@
     },
     "poses": {},
     "icons": {
-      "soldier-76-alpine": true
+      "soldier-76-alpine": true,
+      "soldier-76-76": true
     },
     "weapons": {}
   },
@@ -745,7 +891,9 @@
   "torbjorn": {
     "skins": {
       "torbjorn-viking": true,
-      "torbjorn-santaclad": true
+      "torbjorn-santaclad": true,
+      "torbjorn-chopper": true,
+      "torbjorn-barbarossa": true
     },
     "emotes": {
       "torbjorn-batter-up": true
@@ -830,7 +978,8 @@
       "zarya-toast": true
     },
     "icons": {
-      "zarya-totally-80s": true
+      "zarya-totally-80s": true,
+      "zarya-512": true
     },
     "weapons": {}
   },
