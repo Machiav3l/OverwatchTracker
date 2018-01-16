@@ -16,7 +16,8 @@
       "winter-wonderland": true,
       "barbarian": false,
       "pachimari": true,
-      "scooter": true
+      "scooter": true,
+      "dark-logo": true
     },
     "voicelines": {},
     "poses": {},
@@ -192,7 +193,7 @@
       "ana-corsair": true,
       "ana-wedjat": true,
       "ana-watcher": true,
-      "ana-ana": true,
+      "ana-ana": false,
       "ana-anaversary": true,
       "ana-snow-owl": true
     },
@@ -237,7 +238,8 @@
       "bastion-sunken": true,
       "bastion-omnic": true,
       "bastion-flight": true,
-      "bastion-wood-and-stone": true
+      "bastion-wood-and-stone": true,
+      "bastion-birdwatchers": true
     },
     "voicelines": {
       "bastion-wwwooooo": true,
@@ -376,7 +378,8 @@
       "doomfist-paint": true,
       "doomfist-thumbs-up": true,
       "doomfist-punching-bag": true,
-      "doomfist-punchman": true
+      "doomfist-punchman": true,
+      "doomfist-sonic-boom": true
     },
     "voicelines": {
       "doomfist-i-have-something-for-you": true,
@@ -537,7 +540,8 @@
       "hanzo-sake": true,
       "hanzo-flow-like-water": true,
       "hanzo-remember-this-moment": true,
-      "hanzo-when-the-moon-is-full": true
+      "hanzo-when-the-moon-is-full": true,
+      "hanzo-step-into-the-dojo": true
     },
     "poses": {
       "hanzo-confident": true,
@@ -647,41 +651,165 @@
   },
   "lucio": {
     "skins": {
-      "lucio-andes": true
+      "lucio-andes": true,
+      "lucio-azul": true,
+      "lucio-laranja": true,
+      "lucio-roxo": true,
+      "lucio-vermelho": true,
+      "lucio-synaesthesia": true,
+      "lucio-striker": true,
+      "lucio-hippityhop": true,
+      "lucio-breakaway": true
     },
-    "emotes": {},
-    "intros": {},
+    "emotes": {
+      "lucio-capoeira": true
+    },
+    "intros": {
+      "lucio-freestyle": true,
+      "lucio-in-the-groove": true,
+      "lucio-bicycle-kick": true
+    },
     "sprays": {
       "lucio-trick-or-treat": true,
       "lucio-ornament": true,
-      "lucio-hockey": false,
+      "lucio-hockey": true,
       "lucio-under-control": true,
       "lucio-grin": true,
-      "lucio-break-it-down": true
+      "lucio-break-it-down": true,
+      "lucio-cereal": true,
+      "lucio-walk-of-fame": true,
+      "lucio-vinyl": true,
+      "lucio-triplo": true,
+      "lucio-spin": true,
+      "lucio-tag": true,
+      "lucio-signature": true,
+      "lucio-scratch": true,
+      "lucio-kambo": true,
+      "lucio-mural": true,
+      "lucio-in-concert": true,
+      "lucio-icon": true,
+      "lucio-hero": true,
+      "lucio-frog": true,
+      "lucio-deck": true,
+      "lucio-confident": true,
+      "lucio-bass": true,
+      "lucio-acelerar": true,
+      "lucio-baixo": true,
+      "lucio-cute": true,
+      "lucio-football": true,
+      "lucio-jack-of-diamonds": true,
+      "lucio-keep-ups": true,
+      "lucio-dragon-dance": true
     },
     "voicelines": {
-      "lucio-killed-it": true
+      "lucio-killed-it": true,
+      "lucio-happy-holidays": true,
+      "lucio-everyone-gets-their-1": true,
+      "lucio-cant-stop-wont-stop": true,
+      "lucio-hit-me": true,
+      "lucio-i-could-do-this-all-day": true,
+      "lucio-im-on-top-of-the-world": true,
+      "lucio-jackpot": true,
+      "lucio-not-hearing-that-noise": true,
+      "lucio-oh-yeah": true,
+      "lucio-tinnitus": true,
+      "lucio-why-are-you-so-angry": true,
+      "lucio-you-gotta-believe": true
     },
     "poses": {
-      "lucio-pumpkin-control": true
+      "lucio-pumpkin-control": true,
+      "lucio-confident": true,
+      "lucio-grooving": true,
+      "lucio-ready-for-action": true,
+      "lucio-rip": true
     },
     "icons": {},
     "weapons": {}
   },
   "mccree": {
     "skins": {
-      "mccree-scrooge": true
+      "mccree-scrooge": true,
+      "mccree-ebony": true,
+      "mccree-lake": true,
+      "mccree-sage": true,
+      "mccree-wheat": true,
+      "mccree-white-hat": true,
+      "mccree-on-the-range": true,
+      "mccree-gambler": true,
+      "mccree-riverboat": true,
+      "mccree-blackwatch": true
     },
     "emotes": {
-      "mccree-hat-trick": true
+      "mccree-hat-trick": true,
+      "mccree-spit": true,
+      "mccree-hat-tip": true,
+      "mccree-joker": true,
+      "mccree-line-dance": true
     },
-    "intros": {},
+    "intros": {
+      "mccree-the-duel": true,
+      "mccree-rolling-into-action": true
+    },
     "sprays": {
-      "mccree-trick-or-treat": true
+      "mccree-trick-or-treat": true,
+      "mccree-badge": true,
+      "mccree-bang": true,
+      "mccree-bullet": true,
+      "mccree-draw": true,
+      "mccree-gunslinger": true,
+      "mccree-icon": true,
+      "mccree-noose": true,
+      "mccree-skull": true,
+      "mccree-take-it-easy": true,
+      "mccree-the-names": true,
+      "mccree-tumbleweed": true,
+      "mccree-your-face-here": true,
+      "mccree-wanted": true,
+      "mccree-thumbs-up": true,
+      "mccree-target": true,
+      "mccree-spin": true,
+      "mccree-outlaw": true,
+      "mccree-jesse": true,
+      "mccree-high-noon": true,
+      "mccree-enigma": true,
+      "mccree-deadeye": true,
+      "mccree-buckle": true,
+      "mccree-bamf": true,
+      "mccree-target-practice": true,
+      "mccree-call-it": true,
+      "mccree-pixel": true,
+      "mccree-ugly-sweater": true,
+      "mccree-ornament": true
     },
-    "voicelines": {},
-    "poses": {},
-    "icons": {},
+    "voicelines": {
+      "mccree-aint-i-killed-you-before": true,
+      "mccree-happens-to-the-best-of-us": true,
+      "mccree-i-tried-being-reasonable": true,
+      "mccree-im-the-quick": true,
+      "mccree-im-your-huckleberry": true,
+      "mccree-ive-got-a-bullet": true,
+      "mccree-reach-for-the-sky": true,
+      "mccree-sure-as-hell-aint-ugly": true,
+      "mccree-boom-goes-the-dynamite": false,
+      "mccree-you-done": true,
+      "mccree-wanted-dead-or-alive": true,
+      "mccree-had-to-break-the-ice": true
+    },
+    "poses": {
+      "mccree-showdown": true,
+      "mccree-take-it-easy": true,
+      "mccree-over-the-shoulder": true,
+      "mccree-contemplative": true
+    },
+    "icons": {
+      "mccree-badge": true,
+      "mccree-deadeye": true,
+      "mccree-mccree": true,
+      "mccree-equestrian": true,
+      "mccree-van-helsing": true,
+      "mccree-gamf": true,
+      "mccree-blackwatch": true
+    },
     "weapons": {}
   },
   "mei": {
@@ -806,7 +934,8 @@
   },
   "reinhardt": {
     "skins": {
-      "reinhardt-coldhardt": true
+      "reinhardt-coldhardt": true,
+      "reinhardt-lionhardt": true
     },
     "emotes": {},
     "intros": {},
@@ -870,7 +999,10 @@
     "weapons": {}
   },
   "symmetra": {
-    "skins": {},
+    "skins": {
+      "symmetra-oasis": true,
+      "symmetra-devi": true
+    },
     "emotes": {},
     "intros": {
       "symmetra-snowflakes": true
@@ -932,10 +1064,12 @@
     "sprays": {
       "widowmaker-trick-or-treat": true,
       "widowmaker-icon": true,
-      "widowmaker-skiing": true
+      "widowmaker-skiing": true,
+      "widowmaker-portrait": true
     },
     "voicelines": {
-      "widowmaker-morning-spider": true
+      "widowmaker-morning-spider": true,
+      "widowmaker-magnifique": true
     },
     "poses": {
       "widowmaker-toast": true
