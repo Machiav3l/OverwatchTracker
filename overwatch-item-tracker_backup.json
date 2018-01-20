@@ -17,7 +17,8 @@
       "barbarian": false,
       "pachimari": true,
       "scooter": true,
-      "dark-logo": true
+      "dark-logo": true,
+      "dance": true
     },
     "voicelines": {},
     "poses": {},
@@ -814,43 +815,167 @@
   },
   "mei": {
     "skins": {
-      "mei-jiangshi": true
+      "mei-jiangshi": true,
+      "mei-chrysanthemum": true,
+      "mei-heliotrope": true,
+      "mei-jade": true,
+      "mei-persimmon": true,
+      "mei-snow-plum": true,
+      "mei-firefighter": true,
+      "mei-change": true,
+      "mei-luna": true,
+      "mei-abominable": true,
+      "mei-yeti-hunter": false
     },
     "emotes": {
       "mei-hopping": true,
-      "mei-snowman": true
+      "mei-snowman": true,
+      "mei-kneel": true,
+      "mei-so-excited": true,
+      "mei-sunny-dance": true
     },
     "intros": {
-      "mei-ice-scream": true
+      "mei-ice-scream": true,
+      "mei-skating-around": true,
+      "mei-frosty": true
     },
     "sprays": {
       "mei-trick-or-treat": true,
       "mei-ornament": true,
-      "mei-sketch": true
+      "mei-sketch": true,
+      "mei-frustration": true,
+      "mei-joy": true,
+      "mei-beat-the-heat": true,
+      "mei-blaster": true,
+      "mei-carefree": true,
+      "mei-casual": true,
+      "mei-confident": true,
+      "mei-dizzy": true,
+      "mei-cute": true,
+      "mei-explorer": true,
+      "mei-eyes": true,
+      "mei-hairpin": true,
+      "mei-icon": true,
+      "mei-meis-journal": true,
+      "mei-popsicle": true,
+      "mei-pixel": true,
+      "mei-print": true,
+      "mei-reading": true,
+      "mei-smile": true,
+      "mei-snow-art": true,
+      "mei-snowball": true,
+      "mei-snowman": true,
+      "mei-soft-serve": true,
+      "mei-walled": true
     },
-    "voicelines": {},
+    "voicelines": {
+      "mei-ameizing": true,
+      "mei-chill-out": true,
+      "mei-fight-for-our-world": true,
+      "mei-learned-your-lesson": true,
+      "mei-okay": true,
+      "mei-ouch-are-you-okay": true,
+      "mei-sorry-sorry-sorry-sorry": true,
+      "mei-that-was-great": true,
+      "mei-yay": true,
+      "mei-you-have-to-let-it-go": true,
+      "mei-i-tried-my-best": false,
+      "mei-dont-you-just-love-surprises": true,
+      "mei-i-got-you-something": true,
+      "mei-so-mean-honestly": true
+    },
     "poses": {
-      "mei-rip": true
+      "mei-rip": true,
+      "mei-casual": true,
+      "mei-hands-on-hips": true,
+      "mei-kneeling": true,
+      "mei-medal": true,
+      "mei-lucky": true
     },
     "icons": {},
     "weapons": {}
   },
   "mercy": {
     "skins": {
-      "mercy-witch": true
+      "mercy-witch": true,
+      "mercy-celestial": true,
+      "mercy-mist": true,
+      "mercy-orchid": true,
+      "mercy-verdant": true,
+      "mercy-eidgenossin": true,
+      "mercy-fortune": true,
+      "mercy-imp": true
     },
-    "emotes": {},
-    "intros": {},
+    "emotes": {
+      "mercy-caduceus": true,
+      "mercy-no-pulse": true
+    },
+    "intros": {
+      "mercy-fortune": true,
+      "mercy-guardian-angel": true
+    },
     "sprays": {
       "mercy-trick-or-treat": true,
-      "mercy-snow-angel": true
+      "mercy-snow-angel": true,
+      "mercy-arrow": true,
+      "mercy-bandage": true,
+      "mercy-blaster": true,
+      "mercy-battle-ready": true,
+      "mercy-emblem": true,
+      "mercy-gauze": true,
+      "mercy-stethoscope": true,
+      "mercy-halo": true,
+      "mercy-heroes-never-die": true,
+      "mercy-huge-rez": true,
+      "mercy-light": true,
+      "mercy-icon": true,
+      "mercy-medic": true,
+      "mercy-on-call": true,
+      "mercy-patched-up": true,
+      "mercy-sigil": true,
+      "mercy-smile": true,
+      "mercy-support": true,
+      "mercy-sting": true,
+      "mercy-swiss": true,
+      "mercy-valkyrie": true,
+      "mercy-ziegler": true,
+      "mercy-wings": true,
+      "mercy-cute": true,
+      "mercy-pixel": true,
+      "mercy-parasol": true,
+      "mercy-resurrect": true
     },
     "voicelines": {
-      "mercy-superstition": true
+      "mercy-superstition": true,
+      "mercy-consultation-fee": true,
+      "mercy-doctors-orders": true,
+      "mercy-how-barbaric": true,
+      "mercy-miracle-worker": true,
+      "mercy-need-a-second-opinion": true,
+      "mercy-on-a-scale-of-110": true,
+      "mercy-super": true,
+      "mercy-take-two": true,
+      "mercy-the-doctor-is-in": true,
+      "mercy-the-doctor-will-see-you": true,
+      "mercy-piece-of-cake": true,
+      "mercy-your-guardian-angel": true,
+      "mercy-questionable-judgment": true
     },
-    "poses": {},
+    "poses": {
+      "mercy-mistletoe": true,
+      "mercy-toast": true,
+      "mercy-medal": false,
+      "mercy-ready-for-battle": true,
+      "mercy-carefree": true,
+      "mercy-angelic": true
+    },
     "icons": {
-      "mercy-the-witch": true
+      "mercy-the-witch": true,
+      "mercy-guardian-angel": true,
+      "mercy-mercy": true,
+      "mercy-valkyrie": true,
+      "mercy-combat-medic": true,
+      "mercy-jahrestag": true
     },
     "weapons": {}
   },
@@ -866,7 +991,9 @@
       "moira-icon": true,
       "moira-test-murloc": true,
       "moira-facepalm": true,
-      "moira-hypothesis": true
+      "moira-hypothesis": true,
+      "moira-nails": true,
+      "moira-take": true
     },
     "voicelines": {
       "moira-youre-a-chancer": true
@@ -885,7 +1012,8 @@
     "intros": {},
     "sprays": {
       "orisa-unmoving": true,
-      "orisa-guardian": true
+      "orisa-guardian": true,
+      "orisa-construction": true
     },
     "voicelines": {
       "orisa-annual-performance-analysis": true
@@ -1088,7 +1216,8 @@
     },
     "voicelines": {
       "winston-ooh-scary": true,
-      "winston-i-got-you-something": true
+      "winston-i-got-you-something": true,
+      "winston-sorry-about-that": true
     },
     "poses": {},
     "icons": {
