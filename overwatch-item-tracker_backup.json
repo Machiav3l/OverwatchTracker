@@ -135,7 +135,9 @@
       "ana-not-impressed": true,
       "ana-protector": true
     },
-    "intros": {},
+    "intros": {
+      "ana-under-fire": false
+    },
     "sprays": {
       "ana-trick-or-treat": true,
       "ana-action": true,
@@ -194,9 +196,10 @@
       "ana-corsair": true,
       "ana-wedjat": true,
       "ana-watcher": true,
-      "ana-ana": false,
+      "ana-ana": true,
       "ana-anaversary": true,
-      "ana-snow-owl": true
+      "ana-snow-owl": true,
+      "ana-cute-ana": true
     },
     "weapons": {}
   },
@@ -644,7 +647,8 @@
       "junkrat-beachrat": true,
       "junkrat-ahhhh": true,
       "junkrat-have-a-nice-day": true,
-      "junkrat-junkrat": true
+      "junkrat-junkrat": true,
+      "junkrat-cute-junkrat": true
     },
     "weapons": {
       "junkrat-golden": true
@@ -982,7 +986,11 @@
   "moira": {
     "skins": {
       "moira-oasis": true,
-      "moira-glam": true
+      "moira-glam": true,
+      "moira-fiery": true,
+      "moira-royal": true,
+      "moira-whiskey": true,
+      "moira-selkie": true
     },
     "emotes": {},
     "intros": {},
@@ -993,12 +1001,26 @@
       "moira-facepalm": true,
       "moira-hypothesis": true,
       "moira-nails": true,
-      "moira-take": true
+      "moira-take": true,
+      "moira-cell": true,
+      "moira-fade": true,
+      "moira-nervous": true,
+      "moira-pixel": true,
+      "moira-reaction": true,
+      "moira-shadow": true
     },
     "voicelines": {
-      "moira-youre-a-chancer": true
+      "moira-youre-a-chancer": true,
+      "moira-brilliant": true,
+      "moira-idle-hands": true,
+      "moira-stupidity-is-not-a-right": true,
+      "moira-biologys-habits": true
     },
-    "poses": {},
+    "poses": {
+      "moira-orbs": true,
+      "moira-steepling": true,
+      "moira-prim": true
+    },
     "icons": {
       "moira-erlenmeyer": true,
       "moira-knot": true,
@@ -1007,35 +1029,121 @@
     "weapons": {}
   },
   "orisa": {
-    "skins": {},
-    "emotes": {},
+    "skins": {
+      "orisa-dawn": true,
+      "orisa-plains": true,
+      "orisa-sunrise": true,
+      "orisa-twilight": true
+    },
+    "emotes": {
+      "orisa-sit": true
+    },
     "intros": {},
     "sprays": {
       "orisa-unmoving": true,
       "orisa-guardian": true,
-      "orisa-construction": true
+      "orisa-construction": true,
+      "orisa-frustration": true,
+      "orisa-joy": true,
+      "orisa-amused": true,
+      "orisa-cleaning": true,
+      "orisa-crossing-guard": true,
+      "orisa-drumming": true,
+      "orisa-cute": true,
+      "orisa-heroes": true,
+      "orisa-icon": true,
+      "orisa-just-dessert": true,
+      "orisa-protector": true,
+      "orisa-shield": true,
+      "orisa-stop": true,
+      "orisa-supercharged": true,
+      "orisa-swing": true,
+      "orisa-javelin": true
     },
     "voicelines": {
-      "orisa-annual-performance-analysis": true
+      "orisa-annual-performance-analysis": true,
+      "orisa-do-you-need-a-hug": true,
+      "orisa-efi-will-not-be-happy": true,
+      "orisa-error-sarcasm-module": true,
+      "orisa-medical-assistance": true,
+      "orisa-my-analysis": true,
+      "orisa-shine-your-eyes": true,
+      "orisa-that-does-not-compute": true,
+      "orisa-your-compliance": true
     },
-    "poses": {},
+    "poses": {
+      "orisa-confident": true,
+      "orisa-flex": true,
+      "orisa-halt": true
+    },
     "icons": {},
     "weapons": {}
   },
   "pharah": {
     "skins": {
-      "pharah-frostbite": true
+      "pharah-frostbite": true,
+      "pharah-amethyst": true,
+      "pharah-copper": true,
+      "pharah-emerald": true,
+      "pharah-titanium": true,
+      "pharah-anubis": true,
+      "pharah-mechaqueen": true,
+      "pharah-security-chief": true,
+      "pharah-bedouin": true
     },
-    "emotes": {},
+    "emotes": {
+      "pharah-cheer": true,
+      "pharah-chuckle": true,
+      "pharah-flourish": true,
+      "pharah-knuckles": true
+    },
     "intros": {},
     "sprays": {
-      "pharah-trick-or-treat": true
+      "pharah-trick-or-treat": true,
+      "pharah-aerial-superiority": true,
+      "pharah-amari": true,
+      "pharah-ana": true,
+      "pharah-cobra": true,
+      "pharah-concussive-blast": true,
+      "pharah-cute": true,
+      "pharah-guardian": true,
+      "pharah-hieroglyph": true,
+      "pharah-icon": true,
+      "pharah-incoming": true,
+      "pharah-justice": true,
+      "pharah-on-guard": true,
+      "pharah-play-pharah": true,
+      "pharah-raptora": true,
+      "pharah-rocket-jump": true,
+      "pharah-rocket-launcher": true,
+      "pharah-salute": true,
+      "pharah-scarab": true,
+      "pharah-statue": true,
+      "pharah-stone": true,
+      "pharah-tattoo": true,
+      "pharah-wedjat": true,
+      "pharah-wings": true,
+      "pharah-wrist-launcher": true,
+      "pharah-pixel": true
     },
     "voicelines": {
-      "pharah-the-forecast": true
+      "pharah-the-forecast": true,
+      "pharah-aerial-superiority-achieved": true,
+      "pharah-flying-the-friendly-skies": true,
+      "pharah-fly-like-an-egyptian": true,
+      "pharah-got-you-on-my-radar": true,
+      "pharah-not-a-chance": true,
+      "pharah-play-nice-play-pharah": true,
+      "pharah-rocket-jump": true,
+      "pharah-shot-down": true,
+      "pharah-sorry-but-i-need-to-jet": true
     },
     "poses": {
-      "pharah-toast": true
+      "pharah-toast": true,
+      "pharah-guardian": true,
+      "pharah-jump-jet": true,
+      "pharah-kneeling": true,
+      "pharah-medal": true
     },
     "icons": {},
     "weapons": {}
@@ -1073,7 +1181,9 @@
       "reinhardt-toast": true,
       "reinhardt-legendary": true
     },
-    "icons": {},
+    "icons": {
+      "reinhardt-cute-reinhardt": true
+    },
     "weapons": {}
   },
   "roadhog": {
@@ -1099,7 +1209,8 @@
     "emotes": {},
     "intros": {},
     "sprays": {
-      "soldier-76-ornament": true
+      "soldier-76-ornament": true,
+      "soldier-76-morrison": true
     },
     "voicelines": {
       "soldier-76-trick-or-treat": true,
@@ -1159,7 +1270,9 @@
       "torbjorn-batter-up": true
     },
     "intros": {},
-    "sprays": {},
+    "sprays": {
+      "torbjorn-magni": true
+    },
     "voicelines": {},
     "poses": {},
     "icons": {
@@ -1171,7 +1284,9 @@
     "skins": {
       "tracer-jingle": true
     },
-    "emotes": {},
+    "emotes": {
+      "tracer-bomb-spin": true
+    },
     "intros": {},
     "sprays": {},
     "voicelines": {},
@@ -1235,7 +1350,8 @@
       "zarya-matryoshka": false
     },
     "voicelines": {
-      "zarya-never-forget-the-fallen": true
+      "zarya-never-forget-the-fallen": true,
+      "zarya-feel-the-burn": true
     },
     "poses": {
       "zarya-toast": true
