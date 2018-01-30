@@ -215,7 +215,8 @@
     },
     "emotes": {
       "bastion-robo-boogie": true,
-      "bastion-chortle": true
+      "bastion-chortle": true,
+      "bastion-dizzy": true
     },
     "intros": {},
     "sprays": {
@@ -288,7 +289,8 @@
       "dva-scavenger": true
     },
     "emotes": {
-      "dva-dance": true
+      "dva-dance": true,
+      "dva-bunny-hop": true
     },
     "intros": {
       "dva-eject": true,
@@ -383,14 +385,16 @@
       "doomfist-thumbs-up": true,
       "doomfist-punching-bag": true,
       "doomfist-punchman": true,
-      "doomfist-sonic-boom": true
+      "doomfist-sonic-boom": true,
+      "doomfist-out-of-time": true
     },
     "voicelines": {
       "doomfist-i-have-something-for-you": true,
       "doomfist-you-must-be-joking": true,
       "doomfist-youre-not-bad": true,
       "doomfist-one-punch-is-all-i-need": true,
-      "doomfist-combo-breaker": true
+      "doomfist-combo-breaker": true,
+      "doomfist-go-and-sit-down": true
     },
     "poses": {
       "doomfist-intense": true,
@@ -469,7 +473,8 @@
       "genji-i-am-prepared": true,
       "genji-measure-twice-cut-once": true,
       "genji-you-are-only-human": true,
-      "genji-yeah": true
+      "genji-yeah": true,
+      "genji-my-work-here-is-done": true
     },
     "poses": {
       "genji-rip": false,
@@ -531,7 +536,8 @@
       "hanzo-tea": true,
       "hanzo-wanderer": true,
       "hanzo-kadomatsu": true,
-      "hanzo-pixel": true
+      "hanzo-pixel": true,
+      "hanzo-kabuki": true
     },
     "voicelines": {
       "hanzo-cold-as-ice": true,
@@ -813,7 +819,8 @@
       "mccree-equestrian": true,
       "mccree-van-helsing": true,
       "mccree-gamf": true,
-      "mccree-blackwatch": true
+      "mccree-blackwatch": true,
+      "mccree-cute-mccree": true
     },
     "weapons": {}
   },
@@ -870,7 +877,8 @@
       "mei-snowball": true,
       "mei-snowman": true,
       "mei-soft-serve": true,
-      "mei-walled": true
+      "mei-walled": true,
+      "mei-ecopoint": true
     },
     "voicelines": {
       "mei-ameizing": true,
@@ -979,7 +987,8 @@
       "mercy-mercy": true,
       "mercy-valkyrie": true,
       "mercy-combat-medic": true,
-      "mercy-jahrestag": true
+      "mercy-jahrestag": true,
+      "mercy-cute-mercy": true
     },
     "weapons": {}
   },
@@ -1007,7 +1016,8 @@
       "moira-nervous": true,
       "moira-pixel": true,
       "moira-reaction": true,
-      "moira-shadow": true
+      "moira-shadow": true,
+      "moira-moira": true
     },
     "voicelines": {
       "moira-youre-a-chancer": true,
@@ -1058,7 +1068,8 @@
       "orisa-stop": true,
       "orisa-supercharged": true,
       "orisa-swing": true,
-      "orisa-javelin": true
+      "orisa-javelin": true,
+      "orisa-carving": true
     },
     "voicelines": {
       "orisa-annual-performance-analysis": true,
@@ -1076,7 +1087,12 @@
       "orisa-flex": true,
       "orisa-halt": true
     },
-    "icons": {},
+    "icons": {
+      "orisa-orisa": true,
+      "orisa-protector": true,
+      "orisa-aurisa": true,
+      "orisa-efi": true
+    },
     "weapons": {}
   },
   "pharah": {
@@ -1145,24 +1161,84 @@
       "pharah-kneeling": true,
       "pharah-medal": true
     },
-    "icons": {},
+    "icons": {
+      "pharah-cute-pharah": true
+    },
     "weapons": {}
   },
   "reaper": {
     "skins": {
       "reaper-pumpkin": true,
-      "reaper-shiver": true
+      "reaper-shiver": true,
+      "reaper-blood": true,
+      "reaper-midnight": true,
+      "reaper-moss": true,
+      "reaper-royal": true,
+      "reaper-desert": true,
+      "reaper-nevermore": true,
+      "reaper-biker": true,
+      "reaper-blackwatch-reyes": true
     },
-    "emotes": {},
+    "emotes": {
+      "reaper-slow-clap": true
+    },
     "intros": {
-      "reaper-eternal-rest": true
+      "reaper-eternal-rest": true,
+      "reaper-shadow-step": true,
+      "reaper-death-blossom": true
     },
     "sprays": {
       "reaper-ornament": true,
-      "reaper-icon": true
+      "reaper-icon": true,
+      "reaper-blackwatch": true,
+      "reaper-blossom": true,
+      "reaper-cloaked": true,
+      "reaper-cute": true,
+      "reaper-death-blossom": true,
+      "reaper-death-comes": true,
+      "reaper-die-die-die": true,
+      "reaper-everywhere": true,
+      "reaper-grave": true,
+      "reaper-hellfire": true,
+      "reaper-hooded": true,
+      "reaper-horns": true,
+      "reaper-oops": true,
+      "reaper-psst": true,
+      "reaper-reap-on": true,
+      "reaper-reaping": true,
+      "reaper-revenge": true,
+      "reaper-scythes": true,
+      "reaper-shadow": true,
+      "reaper-shadow-step": true,
+      "reaper-shrug": true,
+      "reaper-silent": true,
+      "reaper-soul-globe": true,
+      "reaper-time-to-kill": true,
+      "reaper-fire-blossom": true,
+      "reaper-bmx": true
     },
-    "voicelines": {},
-    "poses": {},
+    "voicelines": {
+      "reaper-too-easy": true,
+      "reaper-dead-man-walking": true,
+      "reaper-give-me-a-break": true,
+      "reaper-havent-i-killed-you": true,
+      "reaper-im-back-in-black": true,
+      "reaper-if-it-lives-i-can-kill-it": true,
+      "reaper-next": true,
+      "reaper-psychopath": true,
+      "reaper-seen-a-ghost": true,
+      "reaper-was-that-all": true,
+      "reaper-holiday-spirit": true,
+      "reaper-any-last-words": true
+    },
+    "poses": {
+      "reaper-casual": true,
+      "reaper-enigmatic": true,
+      "reaper-menacing": true,
+      "reaper-shrug": true,
+      "reaper-medal": true,
+      "reaper-rip": true
+    },
     "icons": {
       "reaper-dracula": true
     },
@@ -1171,52 +1247,239 @@
   "reinhardt": {
     "skins": {
       "reinhardt-coldhardt": true,
-      "reinhardt-lionhardt": true
+      "reinhardt-lionhardt": true,
+      "reinhardt-brass": true,
+      "reinhardt-copper": true,
+      "reinhardt-cobalt": true,
+      "reinhardt-viridian": true,
+      "reinhardt-bundeswehr": true,
+      "reinhardt-lieutenant-wilhelm": true,
+      "reinhardt-blackhardt": true,
+      "reinhardt-balderich": true,
+      "reinhardt-wujing": true
     },
-    "emotes": {},
-    "intros": {},
-    "sprays": {},
-    "voicelines": {},
+    "emotes": {
+      "reinhardt-kneel": true,
+      "reinhardt-uproarious": true,
+      "reinhardt-warriors-salute": true
+    },
+    "intros": {
+      "reinhardt-more-stretching-required": true
+    },
+    "sprays": {
+      "reinhardt-barrier": true,
+      "reinhardt-charge": true,
+      "reinhardt-cracks": true,
+      "reinhardt-crusader": true,
+      "reinhardt-emblem": true,
+      "reinhardt-fire-strike": true,
+      "reinhardt-glorious": true,
+      "reinhardt-hammer-down": true,
+      "reinhardt-helm": true,
+      "reinhardt-honor": true,
+      "reinhardt-icon": true,
+      "reinhardt-knight": true,
+      "reinhardt-lion": true,
+      "reinhardt-roar": true,
+      "reinhardt-pixel": true,
+      "reinhardt-shield-up": true,
+      "reinhardt-royal": true,
+      "reinhardt-stein": true,
+      "reinhardt-vigilant": true,
+      "reinhardt-swing": true,
+      "reinhardt-white": true,
+      "reinhardt-wilhelm": true,
+      "reinhardt-wrestle": true,
+      "reinhardt-ice-fishing": true,
+      "reinhardt-ornament": true,
+      "reinhardt-dragon-dance": true
+    },
+    "voicelines": {
+      "reinhardt-are-you-afraid": true,
+      "reinhardt-bring-me-another": true,
+      "reinhardt-catch-phrase": true,
+      "reinhardt-crusader-online": true,
+      "reinhardt-crushing-machine": true,
+      "reinhardt-german-engineering": true,
+      "reinhardt-honor-and-glory": true,
+      "reinhardt-respect-your-elders": true,
+      "reinhardt-show-you-how-its-done": true,
+      "reinhardt-this-old-dog": true,
+      "reinhardt-forgive-and-forget": true
+    },
     "poses": {
       "reinhardt-toast": true,
-      "reinhardt-legendary": true
+      "reinhardt-legendary": true,
+      "reinhardt-confident": true,
+      "reinhardt-flex": true
     },
     "icons": {
-      "reinhardt-cute-reinhardt": true
+      "reinhardt-cute-reinhardt": true,
+      "reinhardt-reinhardt": true,
+      "reinhardt-scar": true,
+      "reinhardt-goldhardt": true,
+      "reinhardt-lionhardt": true,
+      "reinhardt-wrestling": true,
+      "reinhardt-sandy": true
     },
     "weapons": {}
   },
   "roadhog": {
     "skins": {
-      "roadhog-junkensteins-monster": true
+      "roadhog-junkensteins-monster": true,
+      "roadhog-kiwi": true,
+      "roadhog-mud": true,
+      "roadhog-sand": true,
+      "roadhog-thistle": true,
+      "roadhog-rudolph": true,
+      "roadhog-islander": true,
+      "roadhog-sharkbait": true
     },
-    "emotes": {},
+    "emotes": {
+      "roadhog-boo": true,
+      "roadhog-headbanging": true
+    },
     "intros": {
-      "roadhog-footsteps": true
+      "roadhog-footsteps": true,
+      "roadhog-say-cheese": true,
+      "roadhog-whole-hog": true
     },
-    "sprays": {},
-    "voicelines": {},
-    "poses": {},
+    "sprays": {
+      "roadhog-butcher": true,
+      "roadhog-breathin": true,
+      "roadhog-deep-thoughts": true,
+      "roadhog-emblem": true,
+      "roadhog-eyes": true,
+      "roadhog-free-pig": true,
+      "roadhog-fresh-meat": true,
+      "roadhog-gotcha": true,
+      "roadhog-grand-theft": true,
+      "roadhog-helmet": true,
+      "roadhog-here-piggy": true,
+      "roadhog-hogpower": true,
+      "roadhog-hooked": true,
+      "roadhog-icon": true,
+      "roadhog-left": true,
+      "roadhog-license": true,
+      "roadhog-mako": true,
+      "roadhog-no-pork": true,
+      "roadhog-piggy": true,
+      "roadhog-pixel": true,
+      "roadhog-popper": true,
+      "roadhog-tails": true,
+      "roadhog-toxic": true,
+      "roadhog-wanted": true,
+      "roadhog-wild-hog": true,
+      "roadhog-ornament": true
+    },
+    "voicelines": {
+      "roadhog-candy-from-a-baby": true,
+      "roadhog-got-something-to-say": true,
+      "roadhog-hahaha": true,
+      "roadhog-hook-line-and-sinker": true,
+      "roadhog-life-is-pain-so-is-death": true,
+      "roadhog-piece-of-cake": true,
+      "roadhog-push-off": true,
+      "roadhog-say-bacon": true,
+      "roadhog-violence-is-the-answer": true,
+      "roadhog-were-all-animals": true,
+      "roadhog-whats-mine-is-mine": true,
+      "roadhog-you-chicken": true,
+      "roadhog-i-have-your-present-right-here": true
+    },
+    "poses": {
+      "roadhog-toast": true,
+      "roadhog-pointing-to-the-sky": true,
+      "roadhog-thumbs-up": true,
+      "roadhog-tuckered-out": true
+    },
     "icons": {
-      "roadhog-ice-fisherman": true
+      "roadhog-ice-fisherman": true,
+      "roadhog-goldhog": true,
+      "roadhog-roadhog": true,
+      "roadhog-piggy": true,
+      "roadhog-hook": true,
+      "roadhog-pigsy": true
     },
     "weapons": {}
   },
   "soldier-76": {
     "skins": {
-      "soldier-76-alpine-76": true
+      "soldier-76-alpine-76": true,
+      "soldier-76-jet": true,
+      "soldier-76-olive": true,
+      "soldier-76-russet": true,
+      "soldier-76-smoke": true,
+      "soldier-76-bone": true,
+      "soldier-76-strike-commander-morrison": true,
+      "soldier-76-commando-76": true,
+      "soldier-76-night-ops-76": true,
+      "soldier-76-daredevil-76": true,
+      "soldier-76-stunt-rider-76": true
     },
-    "emotes": {},
-    "intros": {},
+    "emotes": {
+      "soldier-76-i-see-you": true
+    },
+    "intros": {
+      "soldier-76-helix": true,
+      "soldier-76-looking-at-you": true
+    },
     "sprays": {
       "soldier-76-ornament": true,
-      "soldier-76-morrison": true
+      "soldier-76-morrison": true,
+      "soldier-76-76": true,
+      "soldier-76-all-soldiers": true,
+      "soldier-76-american-hero": true,
+      "soldier-76-coin": true,
+      "soldier-76-grave": true,
+      "soldier-76-grizzled": true,
+      "soldier-76-heal-up": true,
+      "soldier-76-helix": true,
+      "soldier-76-cute": true,
+      "soldier-76-hooah": true,
+      "soldier-76-icon": true,
+      "soldier-76-jacket-76": true,
+      "soldier-76-move": true,
+      "soldier-76-muzzle": true,
+      "soldier-76-old-soldier": true,
+      "soldier-76-pulse-rifle": true,
+      "soldier-76-resolute": true,
+      "soldier-76-rifle-76": true,
+      "soldier-76-pixel": true,
+      "soldier-76-rockets": true,
+      "soldier-76-salute": true,
+      "soldier-76-strike-commander": true,
+      "soldier-76-vigilante": true,
+      "soldier-76-visor": true,
+      "soldier-76-wanted": true,
+      "soldier-76-golf": true,
+      "soldier-76-dragon-dance": true,
+      "soldier-76-ace-of-spades": true
     },
     "voicelines": {
       "soldier-76-trick-or-treat": true,
-      "soldier-76-im-an-army-of-one": true
+      "soldier-76-im-an-army-of-one": true,
+      "soldier-76-get-off-my-lawn": true,
+      "soldier-76-i-didnt-start-this-war": true,
+      "soldier-76-not-on-my-watch": true,
+      "soldier-76-old-soldiers": true,
+      "soldier-76-smells-like-victory": true,
+      "soldier-76-thats-sir-to-you": true,
+      "soldier-76-what-are-you-lookin-at": true,
+      "soldier-76-youre-the-other-one": true,
+      "soldier-76-you-didnt-make-the-cut": true,
+      "soldier-76-you-want-a-medal": true,
+      "soldier-76-merry-christmas": true,
+      "soldier-76-whatever-you-say": true,
+      "soldier-76-youre-the-boss": true
     },
-    "poses": {},
+    "poses": {
+      "soldier-76-fist-pump": true,
+      "soldier-76-locked-and-loaded": true,
+      "soldier-76-soldier": true,
+      "soldier-76-golf-swing": true,
+      "soldier-76-toast": true
+    },
     "icons": {
       "soldier-76-alpine": true,
       "soldier-76-76": true
