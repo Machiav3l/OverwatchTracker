@@ -394,7 +394,8 @@
       "doomfist-youre-not-bad": true,
       "doomfist-one-punch-is-all-i-need": true,
       "doomfist-combo-breaker": true,
-      "doomfist-go-and-sit-down": true
+      "doomfist-go-and-sit-down": true,
+      "doomfist-spare-me-the-commentary": true
     },
     "poses": {
       "doomfist-intense": true,
@@ -670,7 +671,8 @@
       "lucio-synaesthesia": true,
       "lucio-striker": true,
       "lucio-hippityhop": true,
-      "lucio-breakaway": true
+      "lucio-breakaway": true,
+      "lucio-auditiva": true
     },
     "emotes": {
       "lucio-capoeira": true
@@ -1487,38 +1489,163 @@
     "weapons": {}
   },
   "sombra": {
-    "skins": {},
-    "emotes": {},
+    "skins": {
+      "sombra-cidro": true,
+      "sombra-incendio": true,
+      "sombra-mar": true,
+      "sombra-noche": true,
+      "sombra-glitch": true,
+      "sombra-augmented": true
+    },
+    "emotes": {
+      "sombra-boop": true,
+      "sombra-sit": true
+    },
     "intros": {},
-    "sprays": {},
-    "voicelines": {},
+    "sprays": {
+      "sombra-5kull": true,
+      "sombra-agent": true,
+      "sombra-behind-you": true,
+      "sombra-calavera": true,
+      "sombra-deafmute": true,
+      "sombra-eyes": true,
+      "sombra-hacked": true,
+      "sombra-hacked-the-moon": true,
+      "sombra-hacker": true,
+      "sombra-icon": true,
+      "sombra-key": true,
+      "sombra-marionette": true,
+      "sombra-neural": true,
+      "sombra-peppermint": false,
+      "sombra-power": true,
+      "sombra-puzzle": true,
+      "sombra-skull": true,
+      "sombra-skycode": true,
+      "sombra-superior": true,
+      "sombra-tagged": true,
+      "sombra-translocator": true,
+      "sombra-unlocked": true,
+      "sombra-virus": true,
+      "sombra-web": true,
+      "sombra-quien": true,
+      "sombra-puppet": true,
+      "sombra-dragon-dance": true
+    },
+    "voicelines": {
+      "sombra-boop": true,
+      "sombra-cool": true,
+      "sombra-did-you-mean-to-do-that": true,
+      "sombra-hack-the-planet": true,
+      "sombra-if-you-hold-the-information": true,
+      "sombra-in-over-your-head": true,
+      "sombra-just-squishing-a-bug": true,
+      "sombra-mess-with-the-best": true,
+      "sombra-show-me-what-you-got": true,
+      "sombra-taking-this-very-seriously": true,
+      "sombra-i-need-a-drink": true,
+      "sombra-id-love-to-stay-and-chat": true,
+      "sombra-dont-be-a-coward": true,
+      "sombra-glitch-in-the-system": true
+    },
     "poses": {
-      "sombra-pumpkinette": true
+      "sombra-pumpkinette": true,
+      "sombra-hacked": true,
+      "sombra-kneeling": true,
+      "sombra-rising": true,
+      "sombra-sparklers": true
     },
     "icons": {
-      "sombra-rime": true
+      "sombra-rime": true,
+      "sombra-hacker": true,
+      "sombra-skull": true,
+      "sombra-sombra": true,
+      "sombra-high-jump": true
     },
     "weapons": {}
   },
   "symmetra": {
     "skins": {
       "symmetra-oasis": true,
-      "symmetra-devi": true
+      "symmetra-devi": true,
+      "symmetra-cardamom": true,
+      "symmetra-hyacinth": true,
+      "symmetra-saffron": true,
+      "symmetra-technomancer": true,
+      "symmetra-architech": true
     },
-    "emotes": {},
+    "emotes": {
+      "symmetra-have-a-seat": true,
+      "symmetra-dance": true,
+      "symmetra-ribbon": true,
+      "symmetra-insignificant": true
+    },
     "intros": {
-      "symmetra-snowflakes": true
+      "symmetra-snowflakes": true,
+      "symmetra-askew": true,
+      "symmetra-dance": true,
+      "symmetra-my-reality": true
     },
     "sprays": {
-      "symmetra-trick-or-treat": true
+      "symmetra-trick-or-treat": true,
+      "symmetra-agent": true,
+      "symmetra-architect": true,
+      "symmetra-balance": true,
+      "symmetra-behold": true,
+      "symmetra-blueprint": true,
+      "symmetra-builder": true,
+      "symmetra-car-wash": true,
+      "symmetra-caution": true,
+      "symmetra-design": true,
+      "symmetra-glove": true,
+      "symmetra-icon": true,
+      "symmetra-light": true,
+      "symmetra-lines": true,
+      "symmetra-lotus": true,
+      "symmetra-pose": true,
+      "symmetra-projector": true,
+      "symmetra-pixel": true,
+      "symmetra-satya": true,
+      "symmetra-superior": true,
+      "symmetra-the-path": true,
+      "symmetra-vaswani": true,
+      "symmetra-vishkar": true,
+      "symmetra-visor": true,
+      "symmetra-weaver": true,
+      "symmetra-will": true,
+      "symmetra-rhythmic": true,
+      "symmetra-snowflake": true,
+      "symmetra-lantern": true
     },
     "voicelines": {
       "symmetra-a-frightening-thought": true,
-      "symmetra-the-treat-is-a-lie": true
+      "symmetra-the-treat-is-a-lie": true,
+      "symmetra-everything-by-design": true,
+      "symmetra-exquisite": true,
+      "symmetra-how-unsightly": true,
+      "symmetra-i-dont-think-so": true,
+      "symmetra-impressive": true,
+      "symmetra-perfect-harmony": true,
+      "symmetra-precisely": true,
+      "symmetra-put-you-in-your-place": true,
+      "symmetra-welcome-to-my-reality": true,
+      "symmetra-why-do-you-struggle": true,
+      "symmetra-hard-work-and-dedication": true,
+      "symmetra-were-you-expecting-a-miracle": true,
+      "symmetra-i-made-you-something": true,
+      "symmetra-good-fortune": true,
+      "symmetra-your-mind-works": true
     },
-    "poses": {},
+    "poses": {
+      "symmetra-light-reading": true,
+      "symmetra-dance": true,
+      "symmetra-creation": true,
+      "symmetra-balance": true
+    },
     "icons": {
-      "symmetra-the-summoner": true
+      "symmetra-the-summoner": true,
+      "symmetra-sentry": true,
+      "symmetra-vishkar": true,
+      "symmetra-symmetra": true
     },
     "weapons": {}
   },
@@ -1580,7 +1707,9 @@
     "poses": {
       "widowmaker-toast": true
     },
-    "icons": {},
+    "icons": {
+      "widowmaker-cute-widowmaker": true
+    },
     "weapons": {}
   },
   "winston": {
