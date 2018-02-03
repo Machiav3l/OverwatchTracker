@@ -275,7 +275,8 @@
       "bastion-tank-crossing": true,
       "bastion-goldbot": true,
       "bastion-ganymede": true,
-      "bastion-avalanche": true
+      "bastion-avalanche": true,
+      "bastion-cute-bastion": true
     },
     "weapons": {}
   },
@@ -640,7 +641,8 @@
       "junkrat-i-give-it-a-3": false,
       "junkrat-happy-halloween": false,
       "junkrat-merry-christmas": true,
-      "junkrat-too-right": true
+      "junkrat-too-right": true,
+      "junkrat-good-morning": true
     },
     "poses": {
       "junkrat-pumpkin": true,
@@ -806,7 +808,8 @@
       "mccree-boom-goes-the-dynamite": false,
       "mccree-you-done": true,
       "mccree-wanted-dead-or-alive": true,
-      "mccree-had-to-break-the-ice": true
+      "mccree-had-to-break-the-ice": true,
+      "mccree-after-you": true
     },
     "poses": {
       "mccree-showdown": true,
@@ -957,7 +960,8 @@
       "mercy-cute": true,
       "mercy-pixel": true,
       "mercy-parasol": true,
-      "mercy-resurrect": true
+      "mercy-resurrect": true,
+      "mercy-eidgenossin": true
     },
     "voicelines": {
       "mercy-superstition": true,
@@ -1036,7 +1040,8 @@
     "icons": {
       "moira-erlenmeyer": true,
       "moira-knot": true,
-      "moira-moira": true
+      "moira-moira": true,
+      "moira-cute-moira": true
     },
     "weapons": {}
   },
@@ -1142,7 +1147,8 @@
       "pharah-wedjat": true,
       "pharah-wings": true,
       "pharah-wrist-launcher": true,
-      "pharah-pixel": true
+      "pharah-pixel": true,
+      "pharah-asp": true
     },
     "voicelines": {
       "pharah-the-forecast": true,
@@ -1473,7 +1479,8 @@
       "soldier-76-you-want-a-medal": true,
       "soldier-76-merry-christmas": true,
       "soldier-76-whatever-you-say": true,
-      "soldier-76-youre-the-boss": true
+      "soldier-76-youre-the-boss": true,
+      "soldier-76-sit-down": true
     },
     "poses": {
       "soldier-76-fist-pump": true,
@@ -1545,7 +1552,8 @@
       "sombra-i-need-a-drink": true,
       "sombra-id-love-to-stay-and-chat": true,
       "sombra-dont-be-a-coward": true,
-      "sombra-glitch-in-the-system": true
+      "sombra-glitch-in-the-system": true,
+      "sombra-good-one": true
     },
     "poses": {
       "sombra-pumpkinette": true,
@@ -1645,7 +1653,8 @@
       "symmetra-the-summoner": true,
       "symmetra-sentry": true,
       "symmetra-vishkar": true,
-      "symmetra-symmetra": true
+      "symmetra-symmetra": true,
+      "symmetra-cute-symmetra": true
     },
     "weapons": {}
   },
@@ -1654,37 +1663,169 @@
       "torbjorn-viking": true,
       "torbjorn-santaclad": true,
       "torbjorn-chopper": true,
-      "torbjorn-barbarossa": true
+      "torbjorn-barbarossa": true,
+      "torbjorn-bla": true,
+      "torbjorn-citron": true,
+      "torbjorn-gron": true,
+      "torbjorn-plommon": true,
+      "torbjorn-cathode": true,
+      "torbjorn-ironclad": true
     },
     "emotes": {
-      "torbjorn-batter-up": true
+      "torbjorn-batter-up": true,
+      "torbjorn-fisticuffs": true,
+      "torbjorn-guffaw": true,
+      "torbjorn-taking-a-break": true,
+      "torbjorn-dance": true
     },
-    "intros": {},
+    "intros": {
+      "torbjorn-my-baby": true,
+      "torbjorn-refreshing": true,
+      "torbjorn-in-your-face": true
+    },
     "sprays": {
-      "torbjorn-magni": true
+      "torbjorn-magni": true,
+      "torbjorn-armor": true,
+      "torbjorn-beard": true,
+      "torbjorn-catch-a-ride": true,
+      "torbjorn-chef": true,
+      "torbjorn-claw": true,
+      "torbjorn-fix-it-up": true,
+      "torbjorn-forged": true,
+      "torbjorn-gears": true,
+      "torbjorn-cute": true,
+      "torbjorn-get-ready": true,
+      "torbjorn-hammer": true,
+      "torbjorn-hot": true,
+      "torbjorn-icon": true,
+      "torbjorn-ironclad": true,
+      "torbjorn-kanon": true,
+      "torbjorn-mask": true,
+      "torbjorn-molten-core": true,
+      "torbjorn-ready-to-work": true,
+      "torbjorn-run": true,
+      "torbjorn-smalt": true,
+      "torbjorn-pixel": true,
+      "torbjorn-stoic": true,
+      "torbjorn-turret": true,
+      "torbjorn-turrets": true,
+      "torbjorn-uppgradera": true,
+      "torbjorn-water-polo": true,
+      "torbjorn-gold": true,
+      "torbjorn-king-of-clubs": true,
+      "torbjorn-ornament": true
     },
-    "voicelines": {},
-    "poses": {},
+    "voicelines": {
+      "torbjorn-a-chicken-out-of-a-feather": true,
+      "torbjorn-completion-date": true,
+      "torbjorn-dont-get-caught": true,
+      "torbjorn-engineers": true,
+      "torbjorn-im-giving-it-all-ive-got": true,
+      "torbjorn-im-swedish": true,
+      "torbjorn-leave-this-to-an-expert": true,
+      "torbjorn-lets-not-buy-the-pig": true,
+      "torbjorn-some-assembly-required": true,
+      "torbjorn-working-as-intended": true,
+      "torbjorn-more-where-that-came-from": true,
+      "torbjorn-expert-craftsmanship": true,
+      "torbjorn-made-to-order": true
+    },
+    "poses": {
+      "torbjorn-rip": true,
+      "torbjorn-toast": true,
+      "torbjorn-take-five": true,
+      "torbjorn-sitting-pretty": true,
+      "torbjorn-hammer": true
+    },
     "icons": {
-      "torbjorn-santaclad": true
+      "torbjorn-santaclad": true,
+      "torbjorn-forge": true,
+      "torbjorn-gears": true,
+      "torbjorn-torbjorn": true,
+      "torbjorn-goldclad": true
     },
     "weapons": {}
   },
   "tracer": {
     "skins": {
-      "tracer-jingle": true
+      "tracer-jingle": true,
+      "tracer-electric-purple": true,
+      "tracer-hot-pink": true,
+      "tracer-neon-green": true,
+      "tracer-royal-blue": true,
+      "tracer-rose": true,
+      "tracer-punk": true,
+      "tracer-ultraviolet": true,
+      "tracer-slipstream": true,
+      "tracer-cadet-oxton": true,
+      "tracer-graffiti": true
     },
     "emotes": {
-      "tracer-bomb-spin": true
+      "tracer-bomb-spin": true,
+      "tracer-cheer": true,
+      "tracer-sitting-around": true,
+      "tracer-spin": true
     },
-    "intros": {},
-    "sprays": {},
-    "voicelines": {},
+    "intros": {
+      "tracer-just-in-time": true,
+      "tracer-lion-dance": true
+    },
+    "sprays": {
+      "tracer-blink": true,
+      "tracer-bombs-away": true,
+      "tracer-cavalrys-here": true,
+      "tracer-cheers": true,
+      "tracer-cheers-love": true,
+      "tracer-clocks-tickin": true,
+      "tracer-confident": true,
+      "tracer-fighter": true,
+      "tracer-icon": true,
+      "tracer-kneeling": true,
+      "tracer-lena": true,
+      "tracer-pew-pew-pew": true,
+      "tracer-pistols": true,
+      "tracer-pixel": true,
+      "tracer-portrait": true,
+      "tracer-poster": true,
+      "tracer-pulse-bomb": true,
+      "tracer-ready-for-action": true,
+      "tracer-salute": true,
+      "tracer-shaded": true,
+      "tracer-tagged": true,
+      "tracer-whatcha-lookin-at": true,
+      "tracer-wings": true,
+      "tracer-ornament": true,
+      "tracer-snowboarding": true,
+      "tracer-track": true,
+      "tracer-orange": true
+    },
+    "voicelines": {
+      "tracer-aw-rubbish": true,
+      "tracer-be-right-back": true,
+      "tracer-check-me-out": true,
+      "tracer-cheers-love": true,
+      "tracer-deja-vu": true,
+      "tracer-keep-calm": true,
+      "tracer-she-shoots-she-scores": true,
+      "tracer-the-world-needs-heroes": true,
+      "tracer-under-control": true,
+      "tracer-you-need-a-time-out": true,
+      "tracer-ho-ho-ho": true,
+      "tracer-its-in-the-bag": true,
+      "tracer-did-i-miss-something": true,
+      "tracer-dont-be-daft": true
+    },
     "poses": {
-      "tracer-pumpkin": true
+      "tracer-pumpkin": true,
+      "tracer-sitting": true,
+      "tracer-salute": true,
+      "tracer-over-the-shoulder": true
     },
     "icons": {
-      "tracer-jingle": true
+      "tracer-jingle": true,
+      "tracer-pulse-bomb": true,
+      "tracer-tracer": true,
+      "tracer-patch": true
     },
     "weapons": {}
   },
@@ -1750,7 +1891,8 @@
     },
     "icons": {
       "zarya-totally-80s": true,
-      "zarya-512": true
+      "zarya-512": true,
+      "zarya-cute-zarya": true
     },
     "weapons": {}
   },
