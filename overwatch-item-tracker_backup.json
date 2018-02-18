@@ -134,7 +134,9 @@
       "gold": true,
       "qinglong": true,
       "huchimari": true,
-      "lantern": true
+      "lantern": true,
+      "fortune": true,
+      "baihu": true
     },
     "weapons": {}
   },
@@ -403,7 +405,9 @@
       "doomfist-sunset": true,
       "doomfist-spirit": true
     },
-    "emotes": {},
+    "emotes": {
+      "doomfist-crushing": true
+    },
     "intros": {
       "doomfist-meteor": true
     },
@@ -580,7 +584,8 @@
       "hanzo-wanderer": true,
       "hanzo-kadomatsu": true,
       "hanzo-pixel": true,
-      "hanzo-kabuki": true
+      "hanzo-kabuki": true,
+      "hanzo-dragon-dance": true
     },
     "voicelines": {
       "hanzo-cold-as-ice": true,
@@ -1046,7 +1051,8 @@
       "mercy-the-doctor-will-see-you": true,
       "mercy-piece-of-cake": true,
       "mercy-your-guardian-angel": true,
-      "mercy-questionable-judgment": true
+      "mercy-questionable-judgment": true,
+      "mercy-a-most-impressive-display": true
     },
     "poses": {
       "mercy-mistletoe": true,
@@ -1151,7 +1157,8 @@
       "orisa-javelin": true,
       "orisa-carving": true,
       "orisa-kick": true,
-      "orisa-xing": true
+      "orisa-xing": true,
+      "orisa-tracks": true
     },
     "voicelines": {
       "orisa-annual-performance-analysis": true,
@@ -1408,7 +1415,8 @@
       "reinhardt-show-you-how-its-done": true,
       "reinhardt-this-old-dog": true,
       "reinhardt-forgive-and-forget": true,
-      "reinhardt-you-shame-yourself": true
+      "reinhardt-you-shame-yourself": true,
+      "reinhardt-are-you-chicken": true
     },
     "poses": {
       "reinhardt-toast": true,
@@ -1447,7 +1455,8 @@
     "intros": {
       "roadhog-footsteps": true,
       "roadhog-say-cheese": true,
-      "roadhog-whole-hog": true
+      "roadhog-whole-hog": true,
+      "roadhog-feast": true
     },
     "sprays": {
       "roadhog-butcher": true,
@@ -1756,7 +1765,8 @@
       "symmetra-i-made-you-something": true,
       "symmetra-good-fortune": true,
       "symmetra-your-mind-works": true,
-      "symmetra-expecting-a-miracle": true
+      "symmetra-expecting-a-miracle": true,
+      "symmetra-cause-for-celebration": true
     },
     "poses": {
       "symmetra-light-reading": true,
@@ -1935,7 +1945,8 @@
       "tracer-its-in-the-bag": true,
       "tracer-did-i-miss-something": true,
       "tracer-dont-be-daft": true,
-      "tracer-cheeky": true
+      "tracer-cheeky": true,
+      "tracer-im-over-the-moon": true
     },
     "poses": {
       "tracer-pumpkin": true,
@@ -2249,7 +2260,8 @@
       "zenyatta-throw": true,
       "zenyatta-together": true,
       "zenyatta-pixel": true,
-      "zenyatta-aura": true
+      "zenyatta-aura": true,
+      "zenyatta-yut-nori": true
     },
     "voicelines": {
       "zenyatta-no-snowflake": true,
