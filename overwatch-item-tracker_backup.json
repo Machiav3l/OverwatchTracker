@@ -14,7 +14,7 @@
       "yeti": true,
       "yeti-hunter": true,
       "winter-wonderland": true,
-      "barbarian": false,
+      "barbarian": true,
       "pachimari": true,
       "scooter": true,
       "dark-logo": true,
@@ -30,7 +30,54 @@
       "dragons-head": true,
       "good-fortune": true,
       "year-of-the-dog-2018": true,
-      "year-of-the-rooster-2017": true
+      "year-of-the-rooster-2017": true,
+      "sarcophagus": true,
+      "fuji": true,
+      "vivis-adventure": true,
+      "catcher": true,
+      "punch": true,
+      "beyond-the-moon": true,
+      "crusader": true,
+      "demon-hunter": true,
+      "monk": true,
+      "wizard": true,
+      "witch-doctor": true,
+      "forge-onward": true,
+      "caution": true,
+      "dark-overwatch": true,
+      "dark-title": true,
+      "fots2": true,
+      "gl-hf": true,
+      "goldshire-pictures": true,
+      "jail": true,
+      "man-and-omnic": true,
+      "numbani-statue": true,
+      "out-of-my-way": true,
+      "oops": true,
+      "overwatch": true,
+      "overwatch-title": true,
+      "piata": true,
+      "red-x": true,
+      "red-o": true,
+      "respect": true,
+      "rikimaru": true,
+      "rise": true,
+      "scroll": true,
+      "tea-time": true,
+      "siege-mode": true,
+      "sol": true,
+      "sorry": true,
+      "thanks": true,
+      "well-played": true,
+      "victory": true,
+      "season-1-competitor": true,
+      "season-3-competitor": true,
+      "season-4-competitor": true,
+      "season-5-competitor": true,
+      "season-6-competitor": true,
+      "season-7-competitor": true,
+      "rhino": true,
+      "sixgun-killer": true
     },
     "voicelines": {},
     "poses": {},
@@ -211,7 +258,8 @@
       "ana-rifle": true,
       "ana-ana": true,
       "ana-shhh": true,
-      "ana-dragon-dance": true
+      "ana-dragon-dance": true,
+      "ana-wasteland": true
     },
     "voicelines": {
       "ana-are-you-scared": true,
@@ -228,7 +276,9 @@
       "ana-you-know-nothing": true,
       "ana-i-make-my-own-luck": true,
       "ana-no-scope-needed": true,
-      "ana-mother-knows-best": true
+      "ana-mother-knows-best": true,
+      "ana-witness-me": true,
+      "ana-go-on-i-can-wait": true
     },
     "poses": {
       "ana-rip": true,
@@ -266,7 +316,9 @@
       "bastion-dizzy": true,
       "bastion-robot": true
     },
-    "intros": {},
+    "intros": {
+      "bastion-ganymede": true
+    },
     "sprays": {
       "bastion-action": true,
       "bastion-blocks": true,
@@ -312,7 +364,8 @@
       "bastion-dwee-doo-hoo": true,
       "bastion-woop-doo-woo-dun-woop": true,
       "bastion-bewwoo-bewwoo": true,
-      "bastion-doo-wee-doo-wee-woo": true
+      "bastion-doo-wee-doo-wee-woo": true,
+      "bastion-oohooohoohoo": true
     },
     "poses": {
       "bastion-birdwatching": true,
@@ -327,6 +380,52 @@
       "bastion-ganymede": true,
       "bastion-avalanche": true,
       "bastion-cute-bastion": true
+    },
+    "weapons": {}
+  },
+  "brigitte": {
+    "skins": {
+      "brigitte-rod": true,
+      "brigitte-bla": true,
+      "brigitte-gron": true,
+      "brigitte-plommon": true
+    },
+    "emotes": {},
+    "intros": {
+      "brigitte-rally": false
+    },
+    "sprays": {
+      "brigitte-paj": true,
+      "brigitte-stories": true,
+      "brigitte-armored-lion": true,
+      "brigitte-apprentice": true,
+      "brigitte-fuel": true,
+      "brigitte-icon": true,
+      "brigitte-mounted-combat": true,
+      "brigitte-training": true,
+      "brigitte-lindholms": true,
+      "brigitte-challenge": true,
+      "brigitte-flail-with-chain": true,
+      "brigitte-heraldry": true,
+      "brigitte-high-five": true,
+      "brigitte-cat-person": true,
+      "brigitte-armor": true
+    },
+    "voicelines": {
+      "brigitte-swedish-engineering": true,
+      "brigitte-leave-this-to-the-experts": true,
+      "brigitte-mace-to-the-face": true,
+      "brigitte-get-lost": true
+    },
+    "poses": {
+      "brigitte-rally": true,
+      "brigitte-confident": true,
+      "brigitte-relaxed": true
+    },
+    "icons": {
+      "brigitte-rally": true,
+      "brigitte-katt": true,
+      "brigitte-brigitte": true
     },
     "weapons": {}
   },
@@ -452,7 +551,16 @@
       "doomfist-out-of-time": true,
       "doomfist-dragon-dance": true,
       "doomfist-punch": true,
-      "doomfist-lionfist": true
+      "doomfist-lionfist": true,
+      "doomfist-initials": true,
+      "doomfist-wrapped": true,
+      "doomfist-tuxedo": true,
+      "doomfist-they-said": true,
+      "doomfist-the-greatest": true,
+      "doomfist-crush": true,
+      "doomfist-blackhand": true,
+      "doomfist-wrestle": true,
+      "doomfist-successor": true
     },
     "voicelines": {
       "doomfist-i-have-something-for-you": true,
@@ -462,7 +570,12 @@
       "doomfist-combo-breaker": true,
       "doomfist-go-and-sit-down": true,
       "doomfist-spare-me-the-commentary": true,
-      "doomfist-fortune-favors-the-bold": true
+      "doomfist-fortune-favors-the-bold": true,
+      "doomfist-dont-get-back-up": true,
+      "doomfist-you-test-my-patience": true,
+      "doomfist-i-havent-even-started": true,
+      "doomfist-ko": true,
+      "doomfist-talk-to-the-fist": true
     },
     "poses": {
       "doomfist-intense": true,
@@ -576,11 +689,13 @@
       "hanzo-young-master": true,
       "hanzo-young-hanzo": true,
       "hanzo-cloud": true,
-      "hanzo-cyberninja": false
+      "hanzo-cyberninja": false,
+      "hanzo-kabuki": true
     },
     "emotes": {
       "hanzo-meditate": true,
-      "hanzo-brush-shoulder": true
+      "hanzo-brush-shoulder": true,
+      "hanzo-beckon": true
     },
     "intros": {
       "hanzo-backflip": true,
@@ -663,7 +778,8 @@
       "junkrat-jailbird": true,
       "junkrat-rusted": true,
       "junkrat-hayseed": true,
-      "junkrat-firework": true
+      "junkrat-firework": true,
+      "junkrat-scarecrow": true
     },
     "emotes": {
       "junkrat-running-rat": true,
@@ -1096,7 +1212,8 @@
       "mercy-your-guardian-angel": true,
       "mercy-questionable-judgment": true,
       "mercy-a-most-impressive-display": true,
-      "mercy-how-lucky-for-you": true
+      "mercy-how-lucky-for-you": true,
+      "mercy-should-get-that-looked-at": true
     },
     "poses": {
       "mercy-mistletoe": true,
@@ -1147,7 +1264,13 @@
       "moira-glam": true,
       "moira-knot": true,
       "moira-orb": true,
-      "moira-biohazard": true
+      "moira-biohazard": true,
+      "moira-erlenmeyer": true,
+      "moira-give": true,
+      "moira-sigil": true,
+      "moira-power-level": true,
+      "moira-plotting": true,
+      "moira-syringe": true
     },
     "voicelines": {
       "moira-youre-a-chancer": true,
@@ -1156,7 +1279,12 @@
       "moira-stupidity-is-not-a-right": true,
       "moira-biologys-habits": true,
       "moira-im-working": true,
-      "moira-slinte": true
+      "moira-slinte": true,
+      "moira-the-state-of-you": true,
+      "moira-grand": true,
+      "moira-one-hand-gives": true,
+      "moira-are-you-finished": true,
+      "moira-what-are-you-on-about": true
     },
     "poses": {
       "moira-orbs": true,
@@ -1176,7 +1304,8 @@
       "orisa-dawn": true,
       "orisa-plains": true,
       "orisa-sunrise": true,
-      "orisa-twilight": true
+      "orisa-twilight": true,
+      "orisa-carbon-fiber": true
     },
     "emotes": {
       "orisa-sit": true
@@ -1205,7 +1334,10 @@
       "orisa-carving": true,
       "orisa-kick": true,
       "orisa-xing": true,
-      "orisa-tracks": true
+      "orisa-tracks": true,
+      "orisa-companions": true,
+      "orisa-city-of-harmony": true,
+      "orisa-immortal": true
     },
     "voicelines": {
       "orisa-annual-performance-analysis": true,
@@ -1217,7 +1349,11 @@
       "orisa-shine-your-eyes": true,
       "orisa-that-does-not-compute": true,
       "orisa-your-compliance": true,
-      "orisa-the-moon-that-wanes": true
+      "orisa-the-moon-that-wanes": true,
+      "orisa-no-parking": true,
+      "orisa-current-outlook": true,
+      "orisa-your-security": true,
+      "orisa-i-cant-do-that": true
     },
     "poses": {
       "orisa-confident": true,
@@ -1252,7 +1388,9 @@
       "pharah-flourish": true,
       "pharah-knuckles": true
     },
-    "intros": {},
+    "intros": {
+      "pharah-touchdown": true
+    },
     "sprays": {
       "pharah-trick-or-treat": true,
       "pharah-aerial-superiority": true,
@@ -1329,7 +1467,9 @@
       "reaper-desert": true,
       "reaper-nevermore": true,
       "reaper-biker": true,
-      "reaper-blackwatch-reyes": true
+      "reaper-blackwatch-reyes": true,
+      "reaper-el-blanco": false,
+      "reaper-wight": true
     },
     "emotes": {
       "reaper-slow-clap": true
@@ -1455,7 +1595,8 @@
       "reinhardt-ornament": true,
       "reinhardt-dragon-dance": true,
       "reinhardt-earthshatter": true,
-      "reinhardt-lion-dance": true
+      "reinhardt-lion-dance": true,
+      "reinhardt-crusader-1": true
     },
     "voicelines": {
       "reinhardt-are-you-afraid": true,
@@ -1500,7 +1641,8 @@
       "roadhog-rudolph": true,
       "roadhog-islander": true,
       "roadhog-sharkbait": true,
-      "roadhog-bajie": true
+      "roadhog-bajie": true,
+      "roadhog-toa": true
     },
     "emotes": {
       "roadhog-boo": true,
@@ -1511,7 +1653,8 @@
       "roadhog-footsteps": true,
       "roadhog-say-cheese": true,
       "roadhog-whole-hog": true,
-      "roadhog-feast": true
+      "roadhog-feast": true,
+      "roadhog-little-piggy": true
     },
     "sprays": {
       "roadhog-butcher": true,
@@ -1593,7 +1736,8 @@
       "soldier-76-stunt-rider-76": true
     },
     "emotes": {
-      "soldier-76-i-see-you": true
+      "soldier-76-i-see-you": true,
+      "soldier-76-fist": true
     },
     "intros": {
       "soldier-76-helix": true,
@@ -1769,7 +1913,8 @@
       "symmetra-dance": true,
       "symmetra-ribbon": true,
       "symmetra-insignificant": true,
-      "symmetra-snicker": true
+      "symmetra-snicker": true,
+      "symmetra-clap": true
     },
     "intros": {
       "symmetra-snowflakes": true,
@@ -2038,7 +2183,8 @@
       "widowmaker-vert": true,
       "widowmaker-winter": true,
       "widowmaker-odile": true,
-      "widowmaker-noire": true
+      "widowmaker-noire": true,
+      "widowmaker-huntress": true
     },
     "emotes": {
       "widowmaker-at-rest": true,
@@ -2092,7 +2238,8 @@
       "widowmaker-to-life-to-death": true,
       "widowmaker-whats-an-aimbot": true,
       "widowmaker-sorry": true,
-      "widowmaker-what-a-bore": true
+      "widowmaker-what-a-bore": true,
+      "widowmaker-rude": true
     },
     "poses": {
       "widowmaker-toast": true,
@@ -2160,7 +2307,9 @@
       "winston-wow": true,
       "winston-building": true,
       "winston-kite": true,
-      "winston-dragon-dance": true
+      "winston-dragon-dance": true,
+      "winston-white": true,
+      "winston-safari": true
     },
     "voicelines": {
       "winston-ooh-scary": true,
