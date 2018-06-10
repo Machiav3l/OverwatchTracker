@@ -241,7 +241,10 @@
       "mexico": true,
       "south-korea": true,
       "china": true,
-      "pachiversary": true
+      "pachiversary": true,
+      "pachimummy": true,
+      "germany": true,
+      "japan": true
     },
     "weapons": {}
   },
@@ -261,7 +264,8 @@
       "ana-candy": true,
       "ana-not-impressed": true,
       "ana-protector": true,
-      "ana-tea-time": true
+      "ana-tea-time": true,
+      "ana-beach-ball": true
     },
     "intros": {
       "ana-under-fire": false
@@ -324,7 +328,8 @@
       "ana-were-not-keeping-score": true,
       "ana-damn": true,
       "ana-im-too-old-for-surprises": true,
-      "ana-you-need-to-learn-to-relax": true
+      "ana-you-need-to-learn-to-relax": true,
+      "ana-the-adults-are-talking": true
     },
     "poses": {
       "ana-rip": true,
@@ -355,7 +360,8 @@
       "bastion-gearbot": true,
       "bastion-overgrown": true,
       "bastion-rooster": true,
-      "bastion-null-sector": true
+      "bastion-null-sector": true,
+      "bastion-steambot": true
     },
     "emotes": {
       "bastion-robo-boogie": true,
@@ -418,7 +424,8 @@
       "bastion-oohooohoohoo": true,
       "bastion-zweeah-wheee-doo-woo": true,
       "bastion-zwing-zwing-zwing": true,
-      "bastion-dwee-wee-woh": true
+      "bastion-dwee-wee-woh": true,
+      "bastion-oooooooooooo": true
     },
     "poses": {
       "bastion-birdwatching": true,
@@ -491,7 +498,8 @@
       "brigitte-dont-get-caught": true,
       "brigitte-time-to-roll-up-my-sleeves": true,
       "brigitte-a-chicken-out-of-a-feather": true,
-      "brigitte-its-just-a-flesh-wound": true
+      "brigitte-its-just-a-flesh-wound": true,
+      "brigitte-no-problem": true
     },
     "poses": {
       "brigitte-rally": true,
@@ -585,7 +593,8 @@
       "dva-nice-try": true,
       "dva-happy-new-year": true,
       "dva-try-and-keep-up": true,
-      "dva-amazing": true
+      "dva-amazing": true,
+      "dva-no-way": true
     },
     "poses": {
       "dva-festive": true,
@@ -651,7 +660,8 @@
       "doomfist-wrestle": true,
       "doomfist-successor": true,
       "doomfist-stance": true,
-      "doomfist-thumbs-down": true
+      "doomfist-thumbs-down": true,
+      "doomfist-trick-or-treat": true
     },
     "voicelines": {
       "doomfist-i-have-something-for-you": true,
@@ -685,7 +695,8 @@
       "doomfist-cute-doomfist": true,
       "doomfist-ogundimu": true,
       "doomfist-formal": true,
-      "doomfist-akandeversary": true
+      "doomfist-akandeversary": true,
+      "doomfist-shotput": true
     },
     "weapons": {}
   },
@@ -768,7 +779,8 @@
       "genji-life-and-death-balance": true,
       "genji-your-eyes-deceive-you": true,
       "genji-you-seem-nice": true,
-      "genji-hoping-for-a-challenge": true
+      "genji-hoping-for-a-challenge": true,
+      "genji-im-not-impressed": true
     },
     "poses": {
       "genji-rip": false,
@@ -866,7 +878,8 @@
       "hanzo-beauty-in-simplicity": true,
       "hanzo-my-fate-is-written-in-blood": true,
       "hanzo-just-so": true,
-      "hanzo-you-are-already-dead": true
+      "hanzo-you-are-already-dead": true,
+      "hanzo-do-not-rouse-the-dragon": true
     },
     "poses": {
       "hanzo-confident": true,
@@ -990,7 +1003,8 @@
       "junkrat-cute-junkrat": true,
       "junkrat-buccaneer": true,
       "junkrat-goldrat": true,
-      "junkrat-tennis": true
+      "junkrat-tennis": true,
+      "junkrat-the-doctor": true
     },
     "weapons": {
       "junkrat-golden": true
@@ -1073,7 +1087,10 @@
       "lucio-turn-it-up-in-my-headphones": true,
       "lucio-learn-to-take-it-easy": true,
       "lucio-boop": true,
-      "lucio-have-some-lucioohs": true
+      "lucio-have-some-lucioohs": true,
+      "lucio-climbing-the-charts": true,
+      "lucio-can-you-hear-me-now": true,
+      "lucio-so-good-its-scary": true
     },
     "poses": {
       "lucio-pumpkin-control": true,
@@ -1176,7 +1193,9 @@
       "mccree-dont-sass-me": true,
       "mccree-its-your-funeral": true,
       "mccree-i-hear-you-pumpkin": true,
-      "mccree-how-do-you-like-me-now": true
+      "mccree-how-do-you-like-me-now": true,
+      "mccree-youve-been-snowed-in": true,
+      "mccree-i-dont-much-like-losing": true
     },
     "poses": {
       "mccree-showdown": true,
@@ -1211,7 +1230,8 @@
       "mei-change": true,
       "mei-luna": true,
       "mei-abominable": true,
-      "mei-yeti-hunter": false
+      "mei-yeti-hunter": false,
+      "mei-beekeeper": true
     },
     "emotes": {
       "mei-hopping": true,
@@ -1257,7 +1277,8 @@
       "mei-ecopoint": true,
       "mei-fortune": true,
       "mei-dragon-dance": true,
-      "mei-pajamas": true
+      "mei-pajamas": true,
+      "mei-ten-of-diamonds": true
     },
     "voicelines": {
       "mei-ameizing": true,
@@ -1279,7 +1300,8 @@
       "mei-that-looked-like-it-hurt": true,
       "mei-scientific-explanation": true,
       "mei-im-just-a-scientist": true,
-      "mei-science-this": true
+      "mei-science-this": true,
+      "mei-i-was-only-trying-to-help": true
     },
     "poses": {
       "mei-rip": true,
@@ -1359,7 +1381,8 @@
       "mercy-heartbeat": true,
       "mercy-combat-medic": true,
       "mercy-queen-of-clubs": true,
-      "mercy-ornament": true
+      "mercy-ornament": true,
+      "mercy-dragon-dance": true
     },
     "voicelines": {
       "mercy-superstition": true,
@@ -1386,7 +1409,7 @@
     "poses": {
       "mercy-mistletoe": true,
       "mercy-toast": true,
-      "mercy-medal": false,
+      "mercy-medal": true,
       "mercy-ready-for-battle": true,
       "mercy-carefree": true,
       "mercy-angelic": true,
@@ -1490,7 +1513,8 @@
       "orisa-null-sector": true
     },
     "emotes": {
-      "orisa-sit": true
+      "orisa-sit": true,
+      "orisa-dance": true
     },
     "intros": {
       "orisa-immovable": true
@@ -1542,7 +1566,8 @@
       "orisa-error-division-by-0": true,
       "orisa-i-was-only-trying-to-help": true,
       "orisa-functionality-still-in-beta": true,
-      "orisa-your-pulse-has-increased": true
+      "orisa-your-pulse-has-increased": true,
+      "orisa-golden": true
     },
     "poses": {
       "orisa-confident": true,
@@ -1655,7 +1680,8 @@
       "pharah-pharah": true,
       "pharah-raptora": true,
       "pharah-wadjet": true,
-      "pharah-anniversareeha": true
+      "pharah-anniversareeha": true,
+      "pharah-basketball": true
     },
     "weapons": {}
   },
@@ -1734,7 +1760,9 @@
       "reaper-amateur-hour": true,
       "reaper-revenge-is-sweet": true,
       "reaper-moving-on": true,
-      "reaper-youre-on-ice": true
+      "reaper-youre-on-ice": true,
+      "reaper-things-are-looking-grim": true,
+      "reaper-ill-see-you-in-hell": true
     },
     "poses": {
       "reaper-casual": true,
@@ -1833,7 +1861,8 @@
       "reinhardt-easy-does-it": true,
       "reinhardt-unstoppable": true,
       "reinhardt-prost": true,
-      "reinhardt-smashing": true
+      "reinhardt-smashing": true,
+      "reinhardt-what-do-we-have-here": true
     },
     "poses": {
       "reinhardt-toast": true,
@@ -1931,7 +1960,8 @@
       "roadhog-shell-be-right": true,
       "roadhog-you-wanna-scrap-with-me": true,
       "roadhog-killed-for-less-than-that": true,
-      "roadhog-boo": true
+      "roadhog-boo": true,
+      "roadhog-want-some-candy": true
     },
     "poses": {
       "roadhog-toast": true,
@@ -2033,7 +2063,8 @@
       "soldier-76-respect-your-elders": true,
       "soldier-76-not-getting-any-younger": true,
       "soldier-76-dont-call-me-a-hero": true,
-      "soldier-76-knock-knock": true
+      "soldier-76-knock-knock": true,
+      "soldier-76-stay-frosty": true
     },
     "poses": {
       "soldier-76-fist-pump": true,
@@ -2122,7 +2153,9 @@
       "sombra-youre-easily-impressed": true,
       "sombra-youre-in-the-doghouse": true,
       "sombra-back-to-la-medianoche": true,
-      "sombra-whats-up": true
+      "sombra-whats-up": true,
+      "sombra-aw-isnt-that-sweet": true,
+      "sombra-lets-not-do-that-again": true
     },
     "poses": {
       "sombra-pumpkinette": true,
@@ -2244,7 +2277,8 @@
       "symmetra-symmetra": true,
       "symmetra-cute-symmetra": true,
       "symmetra-magician": true,
-      "symmetra-vaswanniversary": true
+      "symmetra-vaswanniversary": true,
+      "symmetra-rhythmic-gymnastics": true
     },
     "weapons": {}
   },
@@ -2347,7 +2381,10 @@
       "torbjorn-torbjorn": true,
       "torbjorn-goldclad": true,
       "torbjorn-cute-torbjorn": true,
-      "torbjorn-chief-engineer": true
+      "torbjorn-chief-engineer": true,
+      "torbjorn-water-polo": true,
+      "torbjorn-cybjorn": true,
+      "torbjorn-viking": true
     },
     "weapons": {}
   },
@@ -2407,7 +2444,8 @@
       "tracer-rose": true,
       "tracer-dragon-dance": true,
       "tracer-fan-dance": true,
-      "tracer-slipstream": true
+      "tracer-slipstream": true,
+      "tracer-ace-of-diamonds": true
     },
     "voicelines": {
       "tracer-aw-rubbish": true,
@@ -2526,7 +2564,8 @@
       "widowmaker-your-emotions": true,
       "widowmaker-i-dont-miss": true,
       "widowmaker-the-pleasure-is-mine": true,
-      "widowmaker-merry-christmas": true
+      "widowmaker-merry-christmas": true,
+      "widowmaker-a-perfect-10": true
     },
     "poses": {
       "widowmaker-toast": true,
@@ -2563,7 +2602,8 @@
     },
     "emotes": {
       "winston-laughing-matter": true,
-      "winston-monkey-business": true
+      "winston-monkey-business": true,
+      "winston-twist": true
     },
     "intros": {
       "winston-excuse-me": true,
@@ -2600,7 +2640,8 @@
       "winston-white": true,
       "winston-safari": true,
       "winston-ornament": true,
-      "winston-jack-of-hearts": true
+      "winston-jack-of-hearts": true,
+      "winston-volleyball": true
     },
     "voicelines": {
       "winston-ooh-scary": true,
@@ -2653,7 +2694,8 @@
       "zarya-taiga": true,
       "zarya-violet": true,
       "zarya-cybergoth": true,
-      "zarya-xuanwu": true
+      "zarya-xuanwu": true,
+      "zarya-cyberian": true
     },
     "emotes": {
       "zarya-take-a-knee": true,
@@ -2719,7 +2761,9 @@
       "zarya-i-was-born-in-battle": true,
       "zarya-you-have-failed-your-team": true,
       "zarya-ready-to-give-up": true,
-      "zarya-its-only-a-game": true
+      "zarya-its-only-a-game": true,
+      "zarya-lets-get-physical": true,
+      "zarya-peace-through-firepower": true
     },
     "poses": {
       "zarya-toast": true,
@@ -2820,13 +2864,15 @@
       "zenyatta-how-amusing": true,
       "zenyatta-path-to-enlightenment": true,
       "zenyatta-your-lesson-for-today": true,
-      "zenyatta-fortune-favors-me": true
+      "zenyatta-fortune-favors-me": true,
+      "zenyatta-how-disappointing": true
     },
     "poses": {
       "zenyatta-balance": true,
       "zenyatta-harmony": true,
       "zenyatta-peace": true,
-      "zenyatta-toast": true
+      "zenyatta-toast": true,
+      "zenyatta-medals": true
     },
     "icons": {
       "zenyatta-cultist": true,
