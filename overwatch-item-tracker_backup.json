@@ -91,7 +91,8 @@
       "null-sector": true,
       "witchs-brew": true,
       "anniversary-2017": true,
-      "boop": true
+      "boop": true,
+      "fangs": true
     },
     "voicelines": {},
     "poses": {},
@@ -625,7 +626,8 @@
       "dva-no-problem": true,
       "dva-scoreboard": true,
       "dva-im-1": true,
-      "dva-happy-holidays": true
+      "dva-happy-holidays": true,
+      "dva-level-up": true
     },
     "poses": {
       "dva-festive": true,
@@ -719,7 +721,9 @@
       "doomfist-you-should-be-scared": true,
       "doomfist-your-lack-of-belief": true,
       "doomfist-i-make-medicine-sick": true,
-      "doomfist-you-cant-win": true
+      "doomfist-you-cant-win": true,
+      "doomfist-take-it-on-the-chin": true,
+      "doomfist-make-you-punch-drunk": true
     },
     "poses": {
       "doomfist-intense": true,
@@ -929,7 +933,8 @@
       "hanzo-do-not-rouse-the-dragon": true,
       "hanzo-an-error-in-judgment": true,
       "hanzo-a-gift-for-you": true,
-      "hanzo-defeat-is-the-first-step": true
+      "hanzo-defeat-is-the-first-step": true,
+      "hanzo-ignore-all-distractions": true
     },
     "poses": {
       "hanzo-confident": true,
@@ -1632,7 +1637,8 @@
       "orisa-flower": true,
       "orisa-dragon-dance": true,
       "orisa-nine-of-spades": true,
-      "orisa-ornament": true
+      "orisa-ornament": true,
+      "orisa-trick-or-treat": true
     },
     "voicelines": {
       "orisa-annual-performance-analysis": true,
@@ -1759,7 +1765,8 @@
       "pharah-fly-casual": true,
       "pharah-dead-or-alive": true,
       "pharah-at-ease": true,
-      "pharah-stay-on-target": true
+      "pharah-stay-on-target": true,
+      "pharah-try-me": true
     },
     "poses": {
       "pharah-toast": true,
@@ -1796,7 +1803,8 @@
       "reaper-dracula": true
     },
     "emotes": {
-      "reaper-slow-clap": true
+      "reaper-slow-clap": true,
+      "reaper-dance": true
     },
     "intros": {
       "reaper-eternal-rest": true,
@@ -1965,7 +1973,8 @@
       "reinhardt-glittering-prizes": true,
       "reinhardt-beer": true,
       "reinhardt-youre-on-my-naughty-list": true,
-      "reinhardt-100-german-power": true
+      "reinhardt-100-german-power": true,
+      "reinhardt-come-here": true
     },
     "poses": {
       "reinhardt-toast": true,
@@ -2042,7 +2051,8 @@
       "roadhog-dragon-dance": true,
       "roadhog-steamed-buns": true,
       "roadhog-chopper": true,
-      "roadhog-joker": true
+      "roadhog-joker": true,
+      "roadhog-trick-or-treat": true
     },
     "voicelines": {
       "roadhog-candy-from-a-baby": true,
@@ -2707,7 +2717,8 @@
       "widowmaker-a-perfect-10": true,
       "widowmaker-you-have-my-attention": true,
       "widowmaker-exquisite": true,
-      "widowmaker-barking-up-the-wrong-tree": true
+      "widowmaker-barking-up-the-wrong-tree": true,
+      "widowmaker-the-party-is-over": true
     },
     "poses": {
       "widowmaker-toast": true,
