@@ -254,7 +254,16 @@
       "russia": true,
       "eyeball": true,
       "egypt": true,
-      "candle": true
+      "candle": true,
+      "16bit-hero": true,
+      "dark-wanderer": true,
+      "pachimari": true,
+      "season-1-competitor": true,
+      "season-3-competitor": true,
+      "season-4-competitor": true,
+      "season-5-competitor": true,
+      "season-6-competitor": true,
+      "season-7-competitor": true
     },
     "weapons": {}
   },
@@ -387,7 +396,8 @@
     },
     "intros": {
       "bastion-ganymede": true,
-      "bastion-reconfigure": true
+      "bastion-reconfigure": true,
+      "bastion-bullet-rain": true
     },
     "sprays": {
       "bastion-action": true,
@@ -474,7 +484,8 @@
       "brigitte-plommon": true
     },
     "emotes": {
-      "brigitte-dance": true
+      "brigitte-dance": true,
+      "brigitte-recalibrate": true
     },
     "intros": {
       "brigitte-rally": false,
@@ -551,7 +562,8 @@
       "dva-scavenger": true,
       "dva-palanquin": true,
       "dva-bva": true,
-      "dva-cruiser": true
+      "dva-cruiser": true,
+      "dva-carbon-fiber": true
     },
     "emotes": {
       "dva-dance": true,
@@ -644,7 +656,8 @@
       "dva-bunny": true,
       "dva-cute-dva": true,
       "dva-hanbok": true,
-      "dva-hanaversary": true
+      "dva-hanaversary": true,
+      "dva-law": true
     },
     "weapons": {}
   },
@@ -934,7 +947,8 @@
       "hanzo-an-error-in-judgment": true,
       "hanzo-a-gift-for-you": true,
       "hanzo-defeat-is-the-first-step": true,
-      "hanzo-ignore-all-distractions": true
+      "hanzo-ignore-all-distractions": true,
+      "hanzo-simple-geometry": true
     },
     "poses": {
       "hanzo-confident": true,
@@ -978,7 +992,8 @@
       "junkrat-puppet": true,
       "junkrat-vaudeville": true,
       "junkrat-lounging": true,
-      "junkrat-dud": true
+      "junkrat-dud": true,
+      "junkrat-juggling": true
     },
     "intros": {
       "junkrat-shot-put": true,
@@ -1301,7 +1316,8 @@
       "mei-luna": true,
       "mei-abominable": true,
       "mei-yeti-hunter": false,
-      "mei-beekeeper": true
+      "mei-beekeeper": true,
+      "mei-earthen": true
     },
     "emotes": {
       "mei-hopping": true,
@@ -1518,7 +1534,8 @@
       "moira-selkie": true
     },
     "emotes": {
-      "moira-dance": true
+      "moira-dance": true,
+      "moira-facepalm": true
     },
     "intros": {},
     "sprays": {
@@ -2205,7 +2222,8 @@
       "soldier-76-gold-soldier": true,
       "soldier-76-soldier-76": true,
       "soldier-76-strike-commander": true,
-      "soldier-76-cute-soldier-76": true
+      "soldier-76-cute-soldier-76": true,
+      "soldier-76-golf": true
     },
     "weapons": {}
   },
@@ -2318,7 +2336,8 @@
       "symmetra-qipao": true,
       "symmetra-peacock": true,
       "symmetra-regal": true,
-      "symmetra-magician": true
+      "symmetra-magician": true,
+      "symmetra-goddess": true
     },
     "emotes": {
       "symmetra-have-a-seat": true,
@@ -2587,7 +2606,8 @@
       "tracer-fan-dance": true,
       "tracer-slipstream": true,
       "tracer-ace-of-diamonds": true,
-      "tracer-trick-or-treat": true
+      "tracer-trick-or-treat": true,
+      "tracer-emily": true
     },
     "voicelines": {
       "tracer-aw-rubbish": true,
@@ -2812,7 +2832,7 @@
       "winston-the-power-of-science": true,
       "winston-we-have-a-problem": true,
       "winston-have-you-seen-my-glasses": true,
-      "winston-oh-yeah": false,
+      "winston-oh-yeah": true,
       "winston-dont-get-me-angry": true,
       "winston-that-was-awesome": true,
       "winston-moon-sweet-home": true,
@@ -2842,6 +2862,46 @@
       "winston-goldrilla": true,
       "winston-cute-winston": true,
       "winston-specimen-28": true
+    },
+    "weapons": {}
+  },
+  "wrecking-ball": {
+    "skins": {
+      "wrecking-ball-chloride": true,
+      "wrecking-ball-potassium": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "wrecking-ball-cannon": true,
+      "wrecking-ball-moonshot": true,
+      "wrecking-ball-smug": true,
+      "wrecking-ball-moon": true,
+      "wrecking-ball-plans": true,
+      "wrecking-ball-8": true,
+      "wrecking-ball-full": true,
+      "wrecking-ball-hungry": true,
+      "wrecking-ball-friends": true,
+      "wrecking-ball-hoard": true,
+      "wrecking-ball-crown": true,
+      "wrecking-ball-tool-box": true
+    },
+    "voicelines": {
+      "wrecking-ball-odds-of-success-increasing": true,
+      "wrecking-ball-no-hard-feelings": true,
+      "wrecking-ball-relief-detected": true,
+      "wrecking-ball-profanity-filter-enabled": true,
+      "wrecking-ball-vocabulary-not-found": true,
+      "wrecking-ball-beware-of-small-mammals": true,
+      "wrecking-ball-do-not-disturb": true
+    },
+    "poses": {
+      "wrecking-ball-lounging": true,
+      "wrecking-ball-peace": true
+    },
+    "icons": {
+      "wrecking-ball-reentry": true,
+      "wrecking-ball-rolling": true
     },
     "weapons": {}
   },
