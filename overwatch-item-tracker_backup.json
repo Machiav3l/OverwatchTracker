@@ -100,7 +100,11 @@
       "boo": true,
       "halloween-terror": true,
       "gummy-hog": true,
-      "pumpkins": true
+      "pumpkins": true,
+      "zomnic": true,
+      "the-monster": true,
+      "my-creations": true,
+      "season-12-competitor": true
     },
     "voicelines": {},
     "poses": {},
@@ -293,7 +297,8 @@
       "witchymari": true,
       "skelemari": true,
       "pumpkimari": true,
-      "halloween-terror-2018": true
+      "halloween-terror-2018": true,
+      "season-12-competitor": true
     },
     "weapons": {}
   },
@@ -408,6 +413,50 @@
     },
     "weapons": {}
   },
+  "ashe": {
+    "skins": {
+      "ashe-yucca": true,
+      "ashe-sunflower": true,
+      "ashe-tansy": true,
+      "ashe-paintbrush": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "ashe-icon": true,
+      "ashe-dashing": true,
+      "ashe-bowler": true,
+      "ashe-butler": true,
+      "ashe-gotcha": true,
+      "ashe-outline": true,
+      "ashe-sweat": true,
+      "ashe-tie": true,
+      "ashe-wanted": true,
+      "ashe-fire-in-the-hole": true,
+      "ashe-moustache": true,
+      "ashe-bike": true
+    },
+    "voicelines": {
+      "ashe-this-is-a-stick-up": true,
+      "ashe-burn-it-all-down": true,
+      "ashe-try-and-keep-it-together": true,
+      "ashe-thats-rich": true,
+      "ashe-just-taking-out-the-trash": true,
+      "ashe-how-do-you-even-live": true,
+      "ashe-watch-your-language": true
+    },
+    "poses": {
+      "ashe-over-the-shoulder": true,
+      "ashe-kneeling": true,
+      "ashe-relaxing": true
+    },
+    "icons": {
+      "ashe-ashe": true,
+      "ashe-bob": true,
+      "ashe-deadlock-rebels": true
+    },
+    "weapons": {}
+  },
   "bastion": {
     "skins": {
       "bastion-tombstone": true,
@@ -427,7 +476,8 @@
       "bastion-chortle": true,
       "bastion-dizzy": true,
       "bastion-robot": true,
-      "bastion-boxing": true
+      "bastion-boxing": true,
+      "bastion-zombie": true
     },
     "intros": {
       "bastion-ganymede": true,
@@ -949,7 +999,8 @@
       "hanzo-kabuki": true,
       "hanzo-lone-wolf": true,
       "hanzo-okami": true,
-      "hanzo-dragon": true
+      "hanzo-dragon": true,
+      "hanzo-demon": true
     },
     "emotes": {
       "hanzo-meditate": true,
@@ -1146,7 +1197,8 @@
       "junkrat-nyah-nyah": true,
       "junkrat-kneeling": true,
       "junkrat-itll-freeze-that-way": true,
-      "junkrat-mug-shot": true
+      "junkrat-mug-shot": true,
+      "junkrat-rip": true
     },
     "icons": {
       "junkrat-beachrat": true,
@@ -1182,7 +1234,8 @@
     "emotes": {
       "lucio-capoeira": true,
       "lucio-in-the-groove": true,
-      "lucio-juggle": true
+      "lucio-juggle": true,
+      "lucio-nah": true
     },
     "intros": {
       "lucio-freestyle": true,
@@ -1405,7 +1458,8 @@
       "mei-abominable": true,
       "mei-yeti-hunter": false,
       "mei-beekeeper": true,
-      "mei-earthen": true
+      "mei-earthen": true,
+      "mei-pumpkin": true
     },
     "emotes": {
       "mei-hopping": true,
@@ -1414,7 +1468,9 @@
       "mei-so-excited": true,
       "mei-sunny-dance": true,
       "mei-table-tennis": true,
-      "mei-yaaaaaaaaay": true
+      "mei-yaaaaaaaaay": true,
+      "mei-giggle": true,
+      "mei-companion": true
     },
     "intros": {
       "mei-ice-scream": true,
@@ -1624,7 +1680,8 @@
       "moira-fiery": true,
       "moira-royal": true,
       "moira-whiskey": true,
-      "moira-selkie": true
+      "moira-selkie": true,
+      "moira-moon": true
     },
     "emotes": {
       "moira-dance": true,
@@ -1818,7 +1875,9 @@
       "pharah-bedouin": true,
       "pharah-qinglong": true,
       "pharah-jackal": true,
-      "pharah-asp": true
+      "pharah-asp": true,
+      "pharah-possessed": true,
+      "pharah-enchanted-armor": true
     },
     "emotes": {
       "pharah-cheer": true,
@@ -2046,7 +2105,8 @@
       "reinhardt-uproarious": true,
       "reinhardt-warriors-salute": true,
       "reinhardt-sweethardt": true,
-      "reinhardt-pumpkin-smash": true
+      "reinhardt-pumpkin-smash": true,
+      "reinhardt-taunt": true
     },
     "intros": {
       "reinhardt-more-stretching-required": true
@@ -2145,7 +2205,8 @@
       "roadhog-sharkbait": true,
       "roadhog-bajie": true,
       "roadhog-toa": true,
-      "roadhog-butcher": true
+      "roadhog-butcher": true,
+      "roadhog-mako": true
     },
     "emotes": {
       "roadhog-boo": true,
@@ -2259,7 +2320,8 @@
       "soldier-76-cyborg-76": true,
       "soldier-76-venom": true,
       "soldier-76-grillmaster-76": true,
-      "soldier-76-slasher-76": true
+      "soldier-76-slasher-76": true,
+      "soldier-76-immortal": true
     },
     "emotes": {
       "soldier-76-i-see-you": true,
@@ -2366,13 +2428,15 @@
       "sombra-glitch": true,
       "sombra-augmented": true,
       "sombra-talon": true,
-      "sombra-tulum": true
+      "sombra-tulum": true,
+      "sombra-bride": true
     },
     "emotes": {
       "sombra-boop": true,
       "sombra-sit": true,
       "sombra-dance": true,
-      "sombra-amused": true
+      "sombra-amused": true,
+      "sombra-marioneta": true
     },
     "intros": {
       "sombra-hacking": true
@@ -2475,7 +2539,8 @@
       "symmetra-regal": true,
       "symmetra-magician": true,
       "symmetra-goddess": true,
-      "symmetra-dragon": true
+      "symmetra-dragon": true,
+      "symmetra-vampire": true
     },
     "emotes": {
       "symmetra-have-a-seat": true,
@@ -2587,7 +2652,8 @@
       "torbjorn-ironclad": true,
       "torbjorn-chief-engineer-lindholm": true,
       "torbjorn-cybjorn": true,
-      "torbjorn-tre-kronor": true
+      "torbjorn-tre-kronor": true,
+      "torbjorn-blackbeard": true
     },
     "emotes": {
       "torbjorn-batter-up": true,
@@ -2815,7 +2881,9 @@
       "widowmaker-kerrigan": true,
       "widowmaker-talon": true,
       "widowmaker-cote-dazur": true,
-      "widowmaker-tricolore": true
+      "widowmaker-tricolore": true,
+      "widowmaker-spider": true,
+      "widowmaker-odette": true
     },
     "emotes": {
       "widowmaker-at-rest": true,
@@ -3100,7 +3168,8 @@
       "zarya-xuanwu": true,
       "zarya-cyberian": true,
       "zarya-weightlifter": true,
-      "zarya-champion": true
+      "zarya-champion": true,
+      "zarya-totally-80s": true
     },
     "emotes": {
       "zarya-take-a-knee": true,
