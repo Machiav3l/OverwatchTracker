@@ -301,7 +301,8 @@
       "halloween-terror-2018": true,
       "season-12-competitor": true,
       "winter-wonderland-2018": true,
-      "snowimari": true
+      "snowimari": true,
+      "pachicracker": true
     },
     "weapons": {}
   },
@@ -537,7 +538,8 @@
       "bastion-trick-or-treat": true,
       "bastion-festive": true,
       "bastion-boxing": true,
-      "bastion-pixel": true
+      "bastion-pixel": true,
+      "bastion-ornament": true
     },
     "voicelines": {
       "bastion-wwwooooo": true,
@@ -631,7 +633,8 @@
       "brigitte-pixel": true,
       "brigitte-hammer-throw": true,
       "brigitte-trick-or-treat": true,
-      "brigitte-ornament": true
+      "brigitte-ornament": true,
+      "brigitte-knitting": true
     },
     "voicelines": {
       "brigitte-swedish-engineering": true,
@@ -653,7 +656,9 @@
       "brigitte-scandinavian-style": true,
       "brigitte-dare-to-lindholm": true,
       "brigitte-not-scared-are-you": true,
-      "brigitte-supposed-to-scare-me": true
+      "brigitte-supposed-to-scare-me": true,
+      "brigitte-merry-christmas": true,
+      "brigitte-i-made-that-just-for-you": true
     },
     "poses": {
       "brigitte-rally": true,
@@ -819,7 +824,8 @@
     },
     "intros": {
       "doomfist-meteor": true,
-      "doomfist-combo": true
+      "doomfist-combo": true,
+      "doomfist-one-punch": true
     },
     "sprays": {
       "doomfist-fist": true,
@@ -879,7 +885,8 @@
       "doomfist-take-it-on-the-chin": true,
       "doomfist-make-you-punch-drunk": true,
       "doomfist-step-into-the-ring": true,
-      "doomfist-they-say-chivalry-is-dead": true
+      "doomfist-they-say-chivalry-is-dead": true,
+      "doomfist-did-you-bring-me-a-present": true
     },
     "poses": {
       "doomfist-intense": true,
@@ -1239,7 +1246,8 @@
       "junkrat-buccaneer": true,
       "junkrat-goldrat": true,
       "junkrat-tennis": true,
-      "junkrat-the-doctor": true
+      "junkrat-the-doctor": true,
+      "junkrat-krampus": true
     },
     "weapons": {
       "junkrat-golden": true
@@ -1352,7 +1360,8 @@
       "lucio-lucio": true,
       "lucio-football": true,
       "lucio-equalizer": true,
-      "lucio-luciouro": true
+      "lucio-luciouro": true,
+      "lucio-snow-fox": true
     },
     "weapons": {}
   },
@@ -1570,7 +1579,8 @@
       "mei-scary": true,
       "mei-wake-up-sleepyhead": true,
       "mei-did-you-hear-something": true,
-      "mei-overcome-all-obstacles": true
+      "mei-overcome-all-obstacles": true,
+      "mei-snowball-fight": true
     },
     "poses": {
       "mei-rip": true,
@@ -1703,7 +1713,8 @@
       "mercy-jahrestag": true,
       "mercy-cute-mercy": true,
       "mercy-ribbon": true,
-      "mercy-badminton": true
+      "mercy-badminton": true,
+      "mercy-sugar-plum-fairy": true
     },
     "weapons": {}
   },
@@ -1791,7 +1802,8 @@
       "moira-prim": true,
       "moira-erlenmeyer": true,
       "moira-medal": true,
-      "moira-pumpkin": true
+      "moira-pumpkin": true,
+      "moira-toast": true
     },
     "icons": {
       "moira-erlenmeyer": true,
@@ -1925,7 +1937,8 @@
       "pharah-flourish": true,
       "pharah-knuckles": true,
       "pharah-flair": true,
-      "pharah-rocket-guitar": true
+      "pharah-rocket-guitar": true,
+      "pharah-take-a-knee": true
     },
     "intros": {
       "pharah-touchdown": true,
@@ -1994,7 +2007,8 @@
       "pharah-clear-skies-full-hearts": true,
       "pharah-we-are-in-this-together": true,
       "pharah-im-so-scared": true,
-      "pharah-are-you-frightened": true
+      "pharah-are-you-frightened": true,
+      "pharah-cool-it": true
     },
     "poses": {
       "pharah-toast": true,
@@ -2110,7 +2124,8 @@
       "reaper-menacing": true,
       "reaper-shrug": true,
       "reaper-medal": true,
-      "reaper-rip": true
+      "reaper-rip": true,
+      "reaper-toast": true
     },
     "icons": {
       "reaper-dracula": true,
@@ -2548,7 +2563,8 @@
       "sombra-i-can-be-nice": true,
       "sombra-try-and-keep-up": true,
       "sombra-you-trying-to-be-scary": true,
-      "sombra-merry-christmas": true
+      "sombra-merry-christmas": true,
+      "sombra-i-know-whos-been-naughty": true
     },
     "poses": {
       "sombra-pumpkinette": true,
@@ -2680,7 +2696,8 @@
       "symmetra-cute-symmetra": true,
       "symmetra-magician": true,
       "symmetra-vaswanniversary": true,
-      "symmetra-rhythmic-gymnastics": true
+      "symmetra-rhythmic-gymnastics": true,
+      "symmetra-figure-skater": true
     },
     "weapons": {}
   },
@@ -3001,7 +3018,8 @@
       "widowmaker-you-have-my-attention": true,
       "widowmaker-exquisite": true,
       "widowmaker-barking-up-the-wrong-tree": true,
-      "widowmaker-the-party-is-over": true
+      "widowmaker-the-party-is-over": true,
+      "widowmaker-happy-holidays": true
     },
     "poses": {
       "widowmaker-toast": true,
@@ -3019,7 +3037,8 @@
       "widowmaker-dor": true,
       "widowmaker-black-lily": true,
       "widowmaker-lacroix": true,
-      "widowmaker-gymnastics": true
+      "widowmaker-gymnastics": true,
+      "widowmaker-biathlon": true
     },
     "weapons": {}
   },
@@ -3172,7 +3191,8 @@
       "wrecking-ball-bowling": true,
       "wrecking-ball-jackolantern": true,
       "wrecking-ball-trick-or-treat": true,
-      "wrecking-ball-stocking": true
+      "wrecking-ball-stocking": true,
+      "wrecking-ball-ornament": true
     },
     "voicelines": {
       "wrecking-ball-odds-of-success-increasing": true,
