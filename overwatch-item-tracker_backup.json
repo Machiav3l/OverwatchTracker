@@ -104,7 +104,9 @@
       "zomnic": true,
       "the-monster": true,
       "my-creations": true,
-      "season-12-competitor": true
+      "season-12-competitor": true,
+      "snowmei": true,
+      "snowreaper": true
     },
     "voicelines": {},
     "poses": {},
@@ -329,7 +331,7 @@
       "ana-dance": true
     },
     "intros": {
-      "ana-under-fire": false
+      "ana-under-fire": true
     },
     "sprays": {
       "ana-trick-or-treat": true,
@@ -451,7 +453,8 @@
       "ashe-hurry": true,
       "ashe-backtoback": true,
       "ashe-bullet": true,
-      "ashe-ornament": true
+      "ashe-ornament": true,
+      "ashe-snowball-fight": true
     },
     "voicelines": {
       "ashe-this-is-a-stick-up": true,
@@ -465,7 +468,8 @@
       "ashe-i-run-this-show": true,
       "ashe-need-me-to-repeat-myself": true,
       "ashe-lifes-little-pleasures": true,
-      "ashe-girl-who-has-everything": true
+      "ashe-girl-who-has-everything": true,
+      "ashe-its-a-giving-time-of-year": true
     },
     "poses": {
       "ashe-over-the-shoulder": true,
@@ -665,7 +669,8 @@
       "brigitte-confident": true,
       "brigitte-relaxed": true,
       "brigitte-kneel": true,
-      "brigitte-pumpkin": true
+      "brigitte-pumpkin": true,
+      "brigitte-toast": true
     },
     "icons": {
       "brigitte-rally": true,
@@ -691,7 +696,8 @@
       "dva-carbon-fiber": true,
       "dva-taegeukgi": true,
       "dva-nano": true,
-      "dva-officer": true
+      "dva-officer": true,
+      "dva-junebug": true
     },
     "emotes": {
       "dva-dance": true,
@@ -1766,7 +1772,8 @@
       "moira-handball": true,
       "moira-banshee": true,
       "moira-trick-or-treat": true,
-      "moira-chimney": true
+      "moira-chimney": true,
+      "moira-ornament": true
     },
     "voicelines": {
       "moira-youre-a-chancer": true,
@@ -2311,7 +2318,8 @@
       "roadhog-chopper": true,
       "roadhog-joker": true,
       "roadhog-trick-or-treat": true,
-      "roadhog-diving": true
+      "roadhog-diving": true,
+      "roadhog-winter": true
     },
     "voicelines": {
       "roadhog-candy-from-a-baby": true,
@@ -3210,7 +3218,8 @@
       "wrecking-ball-be-the-ball": true,
       "wrecking-ball-heart-rate-increasing": true,
       "wrecking-ball-trick-or-treat": true,
-      "wrecking-ball-ho-ho-ho": true
+      "wrecking-ball-ho-ho-ho": true,
+      "wrecking-ball-deck-the-halls": true
     },
     "poses": {
       "wrecking-ball-lounging": true,
