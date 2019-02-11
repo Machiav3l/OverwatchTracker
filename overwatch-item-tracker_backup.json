@@ -450,7 +450,9 @@
       "ashe-flourish": true,
       "ashe-take-a-knee": true
     },
-    "intros": {},
+    "intros": {
+      "ashe-ashe-and-bob": true
+    },
     "sprays": {
       "ashe-icon": true,
       "ashe-dashing": true,
@@ -1677,7 +1679,9 @@
       "mercy-valkyrie": true,
       "mercy-winged-victory": true,
       "mercy-sugar-plum-fairy": true,
-      "mercy-devil": true
+      "mercy-devil": true,
+      "mercy-sigrun": true,
+      "mercy-pink": false
     },
     "emotes": {
       "mercy-caduceus": true,
@@ -2012,7 +2016,8 @@
     "intros": {
       "pharah-touchdown": true,
       "pharah-slam-dunk": true,
-      "pharah-barrage": true
+      "pharah-barrage": true,
+      "pharah-mission-complete": true
     },
     "sprays": {
       "pharah-trick-or-treat": true,
@@ -2115,7 +2120,8 @@
       "reaper-soldier-24": true,
       "reaper-dracula": true,
       "reaper-plague-doctor": true,
-      "reaper-hellfire": true
+      "reaper-hellfire": true,
+      "reaper-l-bu": true
     },
     "emotes": {
       "reaper-slow-clap": true,
@@ -2227,7 +2233,8 @@
       "reinhardt-balderich": true,
       "reinhardt-wujing": true,
       "reinhardt-paragon": true,
-      "reinhardt-festive": true
+      "reinhardt-festive": true,
+      "reinhardt-guan-yu": true
     },
     "emotes": {
       "reinhardt-kneel": true,
