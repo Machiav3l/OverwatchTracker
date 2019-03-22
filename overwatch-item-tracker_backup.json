@@ -332,7 +332,8 @@
       "ana-tal": true,
       "ana-horus": true,
       "ana-corsair": true,
-      "ana-bastet": true
+      "ana-bastet": true,
+      "ana-captain-amari": true
     },
     "emotes": {
       "ana-candy": true,
@@ -513,6 +514,45 @@
     },
     "weapons": {}
   },
+  "baptiste": {
+    "skins": {
+      "baptiste-ble": true,
+      "baptiste-vyolt": true,
+      "baptiste-wouj": true
+    },
+    "emotes": {},
+    "intros": {},
+    "sprays": {
+      "baptiste-attention": true,
+      "baptiste-close-shave": true,
+      "baptiste-do-you-even-lift": true,
+      "baptiste-hey-there": true,
+      "baptiste-icon": true,
+      "baptiste-immortal": true,
+      "baptiste-taunt": true,
+      "baptiste-tropical": true,
+      "baptiste-origin": true,
+      "baptiste-mission-complete": true,
+      "baptiste-one-up": true,
+      "baptiste-hammock": true,
+      "baptiste-long-shadows": true
+    },
+    "voicelines": {
+      "baptiste-appreciation": true,
+      "baptiste-expert-opinion": true,
+      "baptiste-settle-down": true,
+      "baptiste-times-up-pencils-down": true
+    },
+    "poses": {
+      "baptiste-on-alert": true,
+      "baptiste-say-cheese": true
+    },
+    "icons": {
+      "baptiste-kraken": true,
+      "baptiste-baptiste": true
+    },
+    "weapons": {}
+  },
   "bastion": {
     "skins": {
       "bastion-tombstone": true,
@@ -527,7 +567,8 @@
       "bastion-steambot": true,
       "bastion-dune-buggy": true,
       "bastion-avalanche": true,
-      "bastion-gift-wrap": true
+      "bastion-gift-wrap": true,
+      "bastion-omnic-crisis": true
     },
     "emotes": {
       "bastion-robo-boogie": true,
@@ -971,7 +1012,8 @@
       "genji-blackwatch": true,
       "genji-sentai": true,
       "genji-nihon": true,
-      "genji-baihu": true
+      "genji-baihu": true,
+      "genji-bedouin": true
     },
     "emotes": {
       "genji-meditate": true,
@@ -1320,7 +1362,8 @@
       "lucio-auditiva": true,
       "lucio-jazzy": true,
       "lucio-bitrate": true,
-      "lucio-capoeira": true
+      "lucio-capoeira": true,
+      "lucio-slapshot": true
     },
     "emotes": {
       "lucio-capoeira": true,
@@ -1557,7 +1600,7 @@
       "mei-beekeeper": true,
       "mei-earthen": true,
       "mei-pumpkin": true,
-      "mei-rescue-mei": false,
+      "mei-rescue-mei": true,
       "mei-meirry": true
     },
     "emotes": {
@@ -1569,7 +1612,8 @@
       "mei-table-tennis": true,
       "mei-yaaaaaaaaay": true,
       "mei-giggle": true,
-      "mei-companion": true
+      "mei-companion": true,
+      "mei-spray": true
     },
     "intros": {
       "mei-ice-scream": true,
@@ -1681,7 +1725,8 @@
       "mercy-sugar-plum-fairy": true,
       "mercy-devil": true,
       "mercy-sigrun": true,
-      "mercy-pink": false
+      "mercy-pink": false,
+      "mercy-cobalt": true
     },
     "emotes": {
       "mercy-caduceus": true,
@@ -1794,7 +1839,8 @@
     },
     "emotes": {
       "moira-dance": true,
-      "moira-facepalm": true
+      "moira-facepalm": true,
+      "moira-how-amusing": true
     },
     "intros": {
       "moira-transformation": true
@@ -2234,7 +2280,8 @@
       "reinhardt-wujing": true,
       "reinhardt-paragon": true,
       "reinhardt-festive": true,
-      "reinhardt-guan-yu": true
+      "reinhardt-guan-yu": true,
+      "reinhardt-crusader": true
     },
     "emotes": {
       "reinhardt-kneel": true,
@@ -2353,7 +2400,8 @@
       "roadhog-boo": true,
       "roadhog-headbanging": true,
       "roadhog-secret-friend": true,
-      "roadhog-belly-laugh": true
+      "roadhog-belly-laugh": true,
+      "roadhog-tuckered-out": true
     },
     "intros": {
       "roadhog-footsteps": true,
@@ -2463,7 +2511,8 @@
       "soldier-76-venom": true,
       "soldier-76-grillmaster-76": true,
       "soldier-76-slasher-76": true,
-      "soldier-76-immortal": true
+      "soldier-76-immortal": true,
+      "soldier-76-golden": true
     },
     "emotes": {
       "soldier-76-i-see-you": true,
@@ -2472,7 +2521,8 @@
       "soldier-76-take-a-knee": true,
       "soldier-76-dance": true,
       "soldier-76-locked-and-loaded": true,
-      "soldier-76-rattle-drum": true
+      "soldier-76-rattle-drum": true,
+      "soldier-76-amused": true
     },
     "intros": {
       "soldier-76-helix": true,
@@ -2808,7 +2858,8 @@
       "torbjorn-cybjorn": true,
       "torbjorn-tre-kronor": true,
       "torbjorn-blackbeard": true,
-      "torbjorn-zhang-fei": true
+      "torbjorn-zhang-fei": true,
+      "torbjorn-magni": true
     },
     "emotes": {
       "torbjorn-batter-up": true,
@@ -2817,7 +2868,8 @@
       "torbjorn-taking-a-break": true,
       "torbjorn-dance": true,
       "torbjorn-overload": true,
-      "torbjorn-my-babies": true
+      "torbjorn-my-babies": true,
+      "torbjorn-clicking-heels": true
     },
     "intros": {
       "torbjorn-my-baby": true,
@@ -3155,7 +3207,8 @@
       "winston-undersea": true,
       "winston-wukong": true,
       "winston-specimen-28": true,
-      "winston-safari": true
+      "winston-safari": true,
+      "winston-horizon": true
     },
     "emotes": {
       "winston-laughing-matter": true,
@@ -3166,7 +3219,8 @@
     },
     "intros": {
       "winston-excuse-me": true,
-      "winston-glasses": true
+      "winston-glasses": true,
+      "winston-primal-rage": true
     },
     "sprays": {
       "winston-trick-or-treat": true,
@@ -3355,7 +3409,8 @@
       "zarya-take-a-knee": true,
       "zarya-dance": true,
       "zarya-crush-you": true,
-      "zarya-mystery-gift": true
+      "zarya-mystery-gift": true,
+      "zarya-bring-it-on": true
     },
     "intros": {
       "zarya-maximum-charge": true,
