@@ -109,7 +109,12 @@
       "snowreaper": true,
       "bastet": true,
       "captured-flag": true,
-      "interrupted-delivery": true
+      "interrupted-delivery": true,
+      "slicer": true,
+      "or14ns": true,
+      "talon-assassin": true,
+      "talon-heavy-assault": true,
+      "b73ns": true
     },
     "voicelines": {},
     "poses": {},
@@ -518,7 +523,8 @@
     "skins": {
       "baptiste-ble": true,
       "baptiste-vyolt": true,
-      "baptiste-wouj": true
+      "baptiste-wouj": true,
+      "baptiste-vt": true
     },
     "emotes": {},
     "intros": {},
@@ -535,21 +541,40 @@
       "baptiste-mission-complete": true,
       "baptiste-one-up": true,
       "baptiste-hammock": true,
-      "baptiste-long-shadows": true
+      "baptiste-long-shadows": true,
+      "baptiste-choices": true,
+      "baptiste-too-powerful": true,
+      "baptiste-goddess": true,
+      "baptiste-baptiste": true,
+      "baptiste-schematic": true,
+      "baptiste-helmet": true,
+      "baptiste-lieutenant-augustin": true,
+      "baptiste-maneuvers": true,
+      "baptiste-watchful": true,
+      "baptiste-cool-story": true
     },
     "voicelines": {
       "baptiste-appreciation": true,
       "baptiste-expert-opinion": true,
       "baptiste-settle-down": true,
-      "baptiste-times-up-pencils-down": true
+      "baptiste-times-up-pencils-down": true,
+      "baptiste-buy-you-a-drink": true,
+      "baptiste-going-to-sting": true,
+      "baptiste-what-are-you-trying-to-pull": true,
+      "baptiste-an-apple-a-day": true,
+      "baptiste-survival-tip": true,
+      "baptiste-damn": true,
+      "baptiste-some-kind-of-angel": true
     },
     "poses": {
       "baptiste-on-alert": true,
-      "baptiste-say-cheese": true
+      "baptiste-say-cheese": true,
+      "baptiste-peace-out": true
     },
     "icons": {
       "baptiste-kraken": true,
-      "baptiste-baptiste": true
+      "baptiste-baptiste": true,
+      "baptiste-goddess": true
     },
     "weapons": {}
   },
@@ -568,7 +593,8 @@
       "bastion-dune-buggy": true,
       "bastion-avalanche": true,
       "bastion-gift-wrap": true,
-      "bastion-omnic-crisis": true
+      "bastion-omnic-crisis": true,
+      "bastion-defense-matrix": true
     },
     "emotes": {
       "bastion-robo-boogie": true,
@@ -1125,7 +1151,8 @@
       "hanzo-okami": true,
       "hanzo-dragon": true,
       "hanzo-demon": true,
-      "hanzo-huang-zhong": true
+      "hanzo-huang-zhong": true,
+      "hanzo-scion": true
     },
     "emotes": {
       "hanzo-meditate": true,
@@ -1363,7 +1390,8 @@
       "lucio-jazzy": true,
       "lucio-bitrate": true,
       "lucio-capoeira": true,
-      "lucio-slapshot": true
+      "lucio-slapshot": true,
+      "lucio-equalizer": true
     },
     "emotes": {
       "lucio-capoeira": true,
@@ -1601,7 +1629,8 @@
       "mei-earthen": true,
       "mei-pumpkin": true,
       "mei-rescue-mei": true,
-      "mei-meirry": true
+      "mei-meirry": true,
+      "mei-pajamei": true
     },
     "emotes": {
       "mei-hopping": true,
@@ -1835,7 +1864,8 @@
       "moira-royal": true,
       "moira-whiskey": true,
       "moira-selkie": true,
-      "moira-moon": true
+      "moira-moon": true,
+      "moira-blackwatch": true
     },
     "emotes": {
       "moira-dance": true,
@@ -2742,7 +2772,8 @@
       "symmetra-dragon": true,
       "symmetra-vampire": true,
       "symmetra-figure-skater": true,
-      "symmetra-vishkar": true
+      "symmetra-vishkar": true,
+      "symmetra-utopaea": true
     },
     "emotes": {
       "symmetra-have-a-seat": true,
@@ -3315,7 +3346,8 @@
       "wrecking-ball-potassium": true,
       "wrecking-ball-smoke": true,
       "wrecking-ball-lithium": true,
-      "wrecking-ball-wooden-ball": true
+      "wrecking-ball-wooden-ball": true,
+      "wrecking-ball-mayham": true
     },
     "emotes": {
       "wrecking-ball-laugh": true
