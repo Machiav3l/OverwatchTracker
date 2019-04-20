@@ -114,7 +114,9 @@
       "or14ns": true,
       "talon-assassin": true,
       "talon-heavy-assault": true,
-      "b73ns": true
+      "b73ns": true,
+      "ambush": true,
+      "hot-pursuit": true
     },
     "voicelines": {},
     "poses": {},
@@ -320,7 +322,8 @@
       "hong-gildong": true,
       "zhuge-liang": true,
       "piggimari": true,
-      "zhang-fei": true
+      "zhang-fei": true,
+      "archives-2019": true
     },
     "weapons": {}
   },
@@ -450,7 +453,8 @@
       "ashe-sunflower": true,
       "ashe-tansy": true,
       "ashe-paintbrush": true,
-      "ashe-thorn": true
+      "ashe-thorn": true,
+      "ashe-socialite": true
     },
     "emotes": {
       "ashe-flourish": true,
@@ -487,7 +491,8 @@
       "ashe-snowball-fight": true,
       "ashe-dragon-dance": true,
       "ashe-red-envelopes": true,
-      "ashe-pixel": true
+      "ashe-pixel": true,
+      "ashe-playground-victory": true
     },
     "voicelines": {
       "ashe-this-is-a-stick-up": true,
@@ -504,7 +509,10 @@
       "ashe-girl-who-has-everything": true,
       "ashe-its-a-giving-time-of-year": true,
       "ashe-no-one-likes-a-squealer": true,
-      "ashe-ready-for-the-fireworks": true
+      "ashe-ready-for-the-fireworks": true,
+      "ashe-do-you-trust-me": true,
+      "ashe-fetch-my-butler": true,
+      "ashe-mind-your-manners": true
     },
     "poses": {
       "ashe-over-the-shoulder": true,
@@ -515,7 +523,8 @@
     "icons": {
       "ashe-ashe": true,
       "ashe-bob": true,
-      "ashe-deadlock-rebels": true
+      "ashe-deadlock-rebels": true,
+      "ashe-butler": true
     },
     "weapons": {}
   },
@@ -551,7 +560,8 @@
       "baptiste-lieutenant-augustin": true,
       "baptiste-maneuvers": true,
       "baptiste-watchful": true,
-      "baptiste-cool-story": true
+      "baptiste-cool-story": true,
+      "baptiste-carry": true
     },
     "voicelines": {
       "baptiste-appreciation": true,
@@ -564,7 +574,10 @@
       "baptiste-an-apple-a-day": true,
       "baptiste-survival-tip": true,
       "baptiste-damn": true,
-      "baptiste-some-kind-of-angel": true
+      "baptiste-some-kind-of-angel": true,
+      "baptiste-caribbean-coalition": true,
+      "baptiste-associates": true,
+      "baptiste-lieutenant-augustin": true
     },
     "poses": {
       "baptiste-on-alert": true,
@@ -574,7 +587,8 @@
     "icons": {
       "baptiste-kraken": true,
       "baptiste-baptiste": true,
-      "baptiste-goddess": true
+      "baptiste-goddess": true,
+      "baptiste-lieutenant-augustin": true
     },
     "weapons": {}
   },
@@ -594,7 +608,8 @@
       "bastion-avalanche": true,
       "bastion-gift-wrap": true,
       "bastion-omnic-crisis": true,
-      "bastion-defense-matrix": true
+      "bastion-defense-matrix": true,
+      "bastion-gwishin": true
     },
     "emotes": {
       "bastion-robo-boogie": true,
@@ -685,7 +700,8 @@
       "bastion-avalanche": true,
       "bastion-cute-bastion": true,
       "bastion-stealth": true,
-      "bastion-boxing": true
+      "bastion-boxing": true,
+      "bastion-gwishin": true
     },
     "weapons": {}
   },
@@ -766,7 +782,8 @@
       "brigitte-merry-christmas": true,
       "brigitte-i-made-that-just-for-you": true,
       "brigitte-all-that-glitters": true,
-      "brigitte-whos-ready-to-party": true
+      "brigitte-whos-ready-to-party": true,
+      "brigitte-if-you-make-your-bed-lie-in-it": true
     },
     "poses": {
       "brigitte-rally": true,
@@ -931,7 +948,8 @@
     },
     "emotes": {
       "doomfist-crushing": true,
-      "doomfist-dance": true
+      "doomfist-dance": true,
+      "doomfist-thumbs-down": true
     },
     "intros": {
       "doomfist-meteor": true,
@@ -1159,12 +1177,14 @@
       "hanzo-brush-shoulder": true,
       "hanzo-beckon": true,
       "hanzo-training": true,
-      "hanzo-fisherman-dance": true
+      "hanzo-fisherman-dance": true,
+      "hanzo-chuckle": true
     },
     "intros": {
       "hanzo-backflip": true,
       "hanzo-my-aim-is-true": true,
-      "hanzo-target-practice": true
+      "hanzo-target-practice": true,
+      "hanzo-storm-arrow": true
     },
     "sprays": {
       "hanzo-ornament": true,
@@ -1229,7 +1249,8 @@
       "hanzo-simple-geometry": true,
       "hanzo-master-your-fears": true,
       "hanzo-out-cold": true,
-      "hanzo-pointless-frivolity": true
+      "hanzo-pointless-frivolity": true,
+      "hanzo-history-forged-by-the-sword": true
     },
     "poses": {
       "hanzo-confident": true,
@@ -1509,7 +1530,8 @@
       "mccree-van-helsing": true,
       "mccree-undead": true,
       "mccree-royal": true,
-      "mccree-magistrate": true
+      "mccree-magistrate": true,
+      "mccree-deadlock": true
     },
     "emotes": {
       "mccree-hat-trick": true,
@@ -1588,7 +1610,8 @@
       "mccree-buckle-up": true,
       "mccree-next-rounds-on-me": true,
       "mccree-trick-or-treat": true,
-      "mccree-hows-that-for-fireworks": true
+      "mccree-hows-that-for-fireworks": true,
+      "mccree-gathering-no-moss": true
     },
     "poses": {
       "mccree-showdown": true,
@@ -1608,7 +1631,8 @@
       "mccree-blackwatch": true,
       "mccree-cute-mccree": true,
       "mccree-magistrate": true,
-      "mccree-sherlock": true
+      "mccree-sherlock": true,
+      "mccree-deadlock-mccree": true
     },
     "weapons": {}
   },
@@ -1713,7 +1737,8 @@
       "mei-did-you-hear-something": true,
       "mei-overcome-all-obstacles": true,
       "mei-snowball-fight": true,
-      "mei-wishing-you-prosperity": true
+      "mei-wishing-you-prosperity": true,
+      "mei-a-new-adventure": true
     },
     "poses": {
       "mei-rip": true,
@@ -1830,7 +1855,8 @@
       "mercy-ive-seen-worse": true,
       "mercy-sponge-or-spray": true,
       "mercy-i-could-use-the-time-off": true,
-      "mercy-sometimes-you-scare-me": true
+      "mercy-sometimes-you-scare-me": true,
+      "mercy-im-needed-somewhere": true
     },
     "poses": {
       "mercy-mistletoe": true,
@@ -1937,7 +1963,8 @@
       "moira-despair-has-its-own-calms": true,
       "moira-happy-halloween": true,
       "moira-the-gift-of-knowledge": true,
-      "moira-absolute-zero": true
+      "moira-absolute-zero": true,
+      "moira-faith-in-science": true
     },
     "poses": {
       "moira-orbs": true,
@@ -1956,7 +1983,8 @@
       "moira-odeorain": true,
       "moira-cothrom-an-lae": true,
       "moira-handball": true,
-      "moira-banshee": true
+      "moira-banshee": true,
+      "moira-coinn": true
     },
     "weapons": {}
   },
@@ -2159,7 +2187,8 @@
       "pharah-we-are-in-this-together": true,
       "pharah-im-so-scared": true,
       "pharah-are-you-frightened": true,
-      "pharah-cool-it": true
+      "pharah-cool-it": true,
+      "pharah-from-my-mother": true
     },
     "poses": {
       "pharah-toast": true,
@@ -2319,7 +2348,8 @@
       "reinhardt-warriors-salute": true,
       "reinhardt-sweethardt": true,
       "reinhardt-pumpkin-smash": true,
-      "reinhardt-taunt": true
+      "reinhardt-taunt": true,
+      "reinhardt-flex": true
     },
     "intros": {
       "reinhardt-more-stretching-required": true,
@@ -2640,7 +2670,8 @@
       "soldier-76-strike-commander": true,
       "soldier-76-cute-soldier-76": true,
       "soldier-76-golf": true,
-      "soldier-76-slasher": true
+      "soldier-76-slasher": true,
+      "soldier-76-formal-76": true
     },
     "weapons": {}
   },
@@ -2732,7 +2763,8 @@
       "sombra-try-and-keep-up": true,
       "sombra-you-trying-to-be-scary": true,
       "sombra-merry-christmas": true,
-      "sombra-i-know-whos-been-naughty": true
+      "sombra-i-know-whos-been-naughty": true,
+      "sombra-nice-working-with-you": true
     },
     "poses": {
       "sombra-pumpkinette": true,
@@ -2740,7 +2772,8 @@
       "sombra-kneeling": true,
       "sombra-rising": true,
       "sombra-sparklers": true,
-      "sombra-medal": true
+      "sombra-medal": true,
+      "sombra-data-cube": true
     },
     "icons": {
       "sombra-rime": true,
@@ -2850,7 +2883,8 @@
       "symmetra-kindly-adjust": true,
       "symmetra-victory-is-everything": true,
       "symmetra-setting-up-the-car-wash": true,
-      "symmetra-let-us-discuss-your-failures": true
+      "symmetra-let-us-discuss-your-failures": true,
+      "symmetra-what-the-future-holds": true
     },
     "poses": {
       "symmetra-light-reading": true,
@@ -3210,7 +3244,8 @@
       "widowmaker-over-the-shoulder": true,
       "widowmaker-gaze": true,
       "widowmaker-activating-visor": true,
-      "widowmaker-fans": true
+      "widowmaker-fans": true,
+      "widowmaker-surveillance": true
     },
     "icons": {
       "widowmaker-cute-widowmaker": true,
@@ -3383,7 +3418,8 @@
       "wrecking-ball-ornament": true,
       "wrecking-ball-cute": true,
       "wrecking-ball-snacks": true,
-      "wrecking-ball-dragon-dance": true
+      "wrecking-ball-dragon-dance": true,
+      "wrecking-ball-exercise": true
     },
     "voicelines": {
       "wrecking-ball-odds-of-success-increasing": true,
@@ -3404,7 +3440,11 @@
       "wrecking-ball-ho-ho-ho": true,
       "wrecking-ball-deck-the-halls": true,
       "wrecking-ball-engaging-festive-mode": true,
-      "wrecking-ball-assessing-luck": true
+      "wrecking-ball-assessing-luck": true,
+      "wrecking-ball-access-denied": true,
+      "wrecking-ball-ko": true,
+      "wrecking-ball-translation-not-found": true,
+      "wrecking-ball-laughter": true
     },
     "poses": {
       "wrecking-ball-lounging": true,
@@ -3628,14 +3668,16 @@
       "zenyatta-strive-for-improvement": true,
       "zenyatta-trick-or-treat": true,
       "zenyatta-form-is-temporary": true,
-      "zenyatta-snowball-fight": true
+      "zenyatta-snowball-fight": true,
+      "zenyatta-not-ready-to-learn": true
     },
     "poses": {
       "zenyatta-balance": true,
       "zenyatta-harmony": true,
       "zenyatta-peace": true,
       "zenyatta-toast": true,
-      "zenyatta-medals": true
+      "zenyatta-medals": true,
+      "zenyatta-meditation": true
     },
     "icons": {
       "zenyatta-cultist": true,
