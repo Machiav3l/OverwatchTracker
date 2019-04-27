@@ -116,7 +116,13 @@
       "talon-heavy-assault": true,
       "b73ns": true,
       "ambush": true,
-      "hot-pursuit": true
+      "hot-pursuit": true,
+      "the-broker": true,
+      "big-plans": true,
+      "light-the-way": true,
+      "cut-the-brakes": true,
+      "almendron": true,
+      "new-strike-team": true
     },
     "voicelines": {},
     "poses": {},
@@ -756,7 +762,8 @@
       "brigitte-ornament": true,
       "brigitte-knitting": true,
       "brigitte-dragon-dance": true,
-      "brigitte-feast": true
+      "brigitte-feast": true,
+      "brigitte-cute": true
     },
     "voicelines": {
       "brigitte-swedish-engineering": true,
@@ -954,7 +961,8 @@
     "intros": {
       "doomfist-meteor": true,
       "doomfist-combo": true,
-      "doomfist-one-punch": true
+      "doomfist-one-punch": true,
+      "doomfist-seismic-slam": true
     },
     "sprays": {
       "doomfist-fist": true,
@@ -1288,7 +1296,8 @@
       "junkrat-hayseed": true,
       "junkrat-firework": true,
       "junkrat-scarecrow": true,
-      "junkrat-caution": true
+      "junkrat-caution": true,
+      "junkrat-circus": true
     },
     "emotes": {
       "junkrat-running-rat": true,
@@ -1791,7 +1800,8 @@
     "intros": {
       "mercy-fortune": true,
       "mercy-guardian-angel": true,
-      "mercy-heroes-never-die": true
+      "mercy-heroes-never-die": true,
+      "mercy-battle-angel": true
     },
     "sprays": {
       "mercy-trick-or-treat": true,
@@ -2230,7 +2240,8 @@
     },
     "emotes": {
       "reaper-slow-clap": true,
-      "reaper-dance": true
+      "reaper-dance": true,
+      "reaper-not-impressed": true
     },
     "intros": {
       "reaper-eternal-rest": true,
@@ -3281,7 +3292,8 @@
       "winston-monkey-business": true,
       "winston-twist": true,
       "winston-shadow-puppets": true,
-      "winston-sitting-around": true
+      "winston-sitting-around": true,
+      "winston-peanut-butter": true
     },
     "intros": {
       "winston-excuse-me": true,
@@ -3475,7 +3487,8 @@
       "zarya-weightlifter": true,
       "zarya-champion": true,
       "zarya-totally-80s": true,
-      "zarya-midnight": true
+      "zarya-midnight": true,
+      "zarya-racer": true
     },
     "emotes": {
       "zarya-take-a-knee": true,
