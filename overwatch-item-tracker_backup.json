@@ -464,7 +464,8 @@
     },
     "emotes": {
       "ashe-flourish": true,
-      "ashe-take-a-knee": true
+      "ashe-take-a-knee": true,
+      "ashe-dynamite": true
     },
     "intros": {
       "ashe-ashe-and-bob": true
@@ -539,7 +540,8 @@
       "baptiste-ble": true,
       "baptiste-vyolt": true,
       "baptiste-wouj": true,
-      "baptiste-vt": true
+      "baptiste-vt": true,
+      "baptiste-spec-ops": true
     },
     "emotes": {},
     "intros": {},
@@ -615,7 +617,8 @@
       "bastion-gift-wrap": true,
       "bastion-omnic-crisis": true,
       "bastion-defense-matrix": true,
-      "bastion-gwishin": true
+      "bastion-gwishin": true,
+      "bastion-stealth": true
     },
     "emotes": {
       "bastion-robo-boogie": true,
@@ -718,7 +721,8 @@
       "brigitte-gron": true,
       "brigitte-plommon": true,
       "brigitte-mechanic": true,
-      "brigitte-general": true
+      "brigitte-general": true,
+      "brigitte-shieldmaiden": true
     },
     "emotes": {
       "brigitte-dance": true,
@@ -1297,7 +1301,9 @@
       "junkrat-firework": true,
       "junkrat-scarecrow": true,
       "junkrat-caution": true,
-      "junkrat-circus": true
+      "junkrat-circus": true,
+      "junkrat-toasted": true,
+      "junkrat-buccaneer": true
     },
     "emotes": {
       "junkrat-running-rat": true,
@@ -1427,7 +1433,8 @@
       "lucio-capoeira": true,
       "lucio-in-the-groove": true,
       "lucio-juggle": true,
-      "lucio-nah": true
+      "lucio-nah": true,
+      "lucio-smooth": true
     },
     "intros": {
       "lucio-freestyle": true,
@@ -1663,7 +1670,8 @@
       "mei-pumpkin": true,
       "mei-rescue-mei": true,
       "mei-meirry": true,
-      "mei-pajamei": true
+      "mei-pajamei": true,
+      "mei-ecopoint-antarctica": true
     },
     "emotes": {
       "mei-hopping": true,
@@ -1795,7 +1803,9 @@
       "mercy-caduceus": true,
       "mercy-no-pulse": true,
       "mercy-the-best-medicine": true,
-      "mercy-applause": true
+      "mercy-applause": true,
+      "mercy-relax": true,
+      "mercy-hustle": true
     },
     "intros": {
       "mercy-fortune": true,
@@ -1901,7 +1911,9 @@
       "moira-whiskey": true,
       "moira-selkie": true,
       "moira-moon": true,
-      "moira-blackwatch": true
+      "moira-blackwatch": true,
+      "moira-scientist": true,
+      "moira-ornate": true
     },
     "emotes": {
       "moira-dance": true,
@@ -2006,7 +2018,8 @@
       "orisa-twilight": true,
       "orisa-carbon-fiber": true,
       "orisa-null-sector": true,
-      "orisa-sanye": true
+      "orisa-sanye": true,
+      "orisa-forest-spirit": true
     },
     "emotes": {
       "orisa-sit": true,
@@ -2351,7 +2364,8 @@
       "reinhardt-paragon": true,
       "reinhardt-festive": true,
       "reinhardt-guan-yu": true,
-      "reinhardt-crusader": true
+      "reinhardt-crusader": true,
+      "reinhardt-bloodhardt": true
     },
     "emotes": {
       "reinhardt-kneel": true,
@@ -2472,7 +2486,8 @@
       "roadhog-headbanging": true,
       "roadhog-secret-friend": true,
       "roadhog-belly-laugh": true,
-      "roadhog-tuckered-out": true
+      "roadhog-tuckered-out": true,
+      "roadhog-dance": true
     },
     "intros": {
       "roadhog-footsteps": true,
@@ -2698,14 +2713,16 @@
       "sombra-tulum": true,
       "sombra-bride": true,
       "sombra-rime": true,
-      "sombra-peppermint": true
+      "sombra-peppermint": true,
+      "sombra-azucar": true
     },
     "emotes": {
       "sombra-boop": true,
       "sombra-sit": true,
       "sombra-dance": true,
       "sombra-amused": true,
-      "sombra-marioneta": true
+      "sombra-marioneta": true,
+      "sombra-hold-on": true
     },
     "intros": {
       "sombra-hacking": true
@@ -3063,7 +3080,8 @@
       "tracer-cheer": true,
       "tracer-sitting-around": true,
       "tracer-spin": true,
-      "tracer-finger-guns": true
+      "tracer-finger-guns": true,
+      "tracer-charleston": true
     },
     "intros": {
       "tracer-just-in-time": true,
@@ -3333,7 +3351,8 @@
       "winston-ornament": true,
       "winston-jack-of-hearts": true,
       "winston-volleyball": true,
-      "winston-presents": true
+      "winston-presents": true,
+      "winston-pixel": true
     },
     "voicelines": {
       "winston-ooh-scary": true,
@@ -3394,7 +3413,8 @@
       "wrecking-ball-smoke": true,
       "wrecking-ball-lithium": true,
       "wrecking-ball-wooden-ball": true,
-      "wrecking-ball-mayham": true
+      "wrecking-ball-mayham": true,
+      "wrecking-ball-high-roller": true
     },
     "emotes": {
       "wrecking-ball-laugh": true
